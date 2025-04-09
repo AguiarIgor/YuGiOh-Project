@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "media/*": ["media/*"],
+      "styles/*": ["styles/*"],
+      "scripts/*": ["scripts/*"]
+    }
+  },
+  "include": [
+    "index.js",
+    "styles/**/*",
+    "media/**/*",
+    "scripts/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

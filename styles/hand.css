@@ -1,0 +1,81 @@
+.hand {
+    height: 100%;
+    width: 60vw;
+    margin-left: 4vw;
+}
+
+.linhaMao {
+    position: relative;
+    height: calc(72.5vw * 0.18);
+    width: calc(60vw / 6 * 0.9);
+    margin-right: -3vw;
+    transition: transform 0.1s ease;
+
+    &:last-child {
+        margin-right: 0;
+    }
+}
+
+.cardMao {
+    cursor: pointer;
+    position: absolute;
+    height: 100%;
+    width: auto;
+    pointer-events: visible;
+    margin: 0;
+    user-select: none;
+    -webkit-user-select: none;
+
+    &:hover {
+        transform: translateY(-2vh);
+    }
+}
+
+.desativaHover:hover {
+    transform: none;
+}
+
+.boxAction{
+    position: absolute;
+    top: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    height: 6.6vw;
+    width: 15.2vw;
+    margin-top: -19.2vh;
+    z-index: 1;
+}
+.playAction {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+    pointer-events: visible;
+    height: 6.6vw;
+    width: 6.6vw;
+    background: rgba(0, 0, 0, 0.9);
+    border: 0.4vw solid rgba(41, 124, 228, 1);
+    border-radius: 100%;
+    z-index: 1;
+
+    &:nth-child(2) { margin-left: 0.5vw; }
+    & > .imgAction {
+        height: 50%;
+        background: no-repeat center center / cover;
+        filter: sepia(100%) saturate(500%) hue-rotate(165deg);
+        margin: 0 auto;
+        pointer-events: none;
+    }
+
+    & > .textAction {
+        color: white;
+        font-size: 1.5vw;
+        font-weight: bold;
+        margin: 0 auto 0.5vh auto;
+        text-shadow:
+                0.1vw 0.2vw 0.3vw rgba(0, 0, 0, 1),
+                0.1vw 0.2vw 0.3vw rgba(0, 0, 0, 1);
+        pointer-events: none;
+    }
+}

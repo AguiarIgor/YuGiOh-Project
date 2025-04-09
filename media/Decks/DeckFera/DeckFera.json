@@ -1,0 +1,467 @@
+[
+  {
+    "nome": "\"B\" Contato",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Quando seu oponente Invocar um ou mais monstros por Invocação-Normal ou Especial (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial da sua mão no campo do oponente em Posição de Defesa. O controlador deste card não pode Invocar por Invocação-Fusão, Sincro, Xyz ou Link a não ser que use este card como matéria.",
+    "race": "Insect",
+    "atk": 1500,
+    "def": 2200,
+    "arquetipo": "\"C\"",
+    "level": 6,
+    "card_image": "https://images.ygoprodeck.com/images/cards/87170768.jpg"
+  },
+  {
+    "nome": "A Melodia do Despertar do Dragão",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Descarte 1 card; adicione até 2 monstros Dragão com 3000 ou mais de ATK e 2500 ou menos de DEF do seu Deck à sua mão.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/48800175.jpg"
+  },
+  {
+    "nome": "Abundância Cristalina",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Envie 4 cards \"Fera Cristalina\" da sua Zona de Magias & Armadilhas para o Cemitério; envie para o Cemitério tantos cards no campo quanto possível e, depois, Invoque por Invocação-Especial tantos monstros \"Fera Cristalina\" quanto possível do seu Cemitério, até o número de cards enviados do campo do seu oponente para o Cemitério pelo efeito deste card.",
+    "race": "Normal",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/72881007.jpg"
+  },
+  {
+    "nome": "Árvore Cristalina",
+    "tipo": "Spell Card",
+    "subCardType": "Continuous Spell",
+    "desc": "Sempre que um ou mais monstros \"Fera Cristalina\" forem colocados na Zona de Magias & Armadilhas de qualquer duelista, coloque 1 Marcador Cristalino neste card. Você pode enviar este card para o Cemitério; pegue um número de monstros \"Fera Cristalina\" do seu Deck igual ao número de Marcadores Cristalinos que estavam neste card e coloque-os com a face para cima na sua Zona de Magias & Armadilhas como Magias Contínuas.",
+    "race": "Continuous",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/47408488.jpg"
+  },
+  {
+    "nome": "Bênção Cristalina",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Escolha até 2 monstros \"Fera Cristalina\" no seu Cemitério; coloque os alvos com a face para cima na sua Zona de Magias & Armadilhas como Magias Contínuas.",
+    "race": "Normal",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/35486099.jpg"
+  },
+  {
+    "nome": "Brilho Cristalino",
+    "tipo": "Trap Card",
+    "subCardType": "Continuous Trap",
+    "desc": "Você só pode controlar 1 \"Brilho Cristalino\". Cada monstro \"Fera Cristalina\" que você controla ganha ATK igual à sua DEF original. Se um ou mais cards \"Fera Cristalina\" forem colocados na sua Zona de Magias & Armadilhas, mesmo durante a Etapa de Dano: você pode enviar este card com a face para cima para o Cemitério; Invoque por Invocação-Especial 1 monstro \"Fera Cristalina\" da sua mão ou do Cemitério e, além disso, qualquer dano que você sofrer neste turno é diminuído pela metade.",
+    "race": "Continuous",
+    "arquetipo": "Crystal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/47149093.jpg"
+  },
+  {
+    "nome": "Ciclone Cósmico",
+    "tipo": "Spell Card",
+    "subCardType": "Quick-Play Spell",
+    "desc": "Pague 1000 PV e, depois, escolha 1 Magia/Armadilha no campo; bana-a.",
+    "race": "Quick-Play",
+    "card_image": "https://images.ygoprodeck.com/images/cards/8267140.jpg"
+  },
+  {
+    "nome": "Cidade Antiga - Ruínas Arco-Íris",
+    "tipo": "Spell Card",
+    "subCardType": "Field Spell",
+    "desc": "Você deve ter esse número de cards \"Fera Cristalina\" na sua Zona de Magias & Armadilhas para ativar e resolver esses efeitos.\n●1+: Este card não pode ser destruído por efeitos de card.\n●2+: Uma vez por turno (incluindo o do oponente) você pode diminuir pela metade o dano de batalha que você sofrer.\n●3+: Quando um Card de Magia/Armadilha for ativado: você pode enviar 1 monstro \"Fera Cristalina\" que você controla para o Cemitério; negue a ativação e, se isso acontecer, destrua-o.\n●4+: Uma vez por turno, durante sua Fase Principal: você pode comprar 1 card.\n●5: Uma vez por turno, durante sua Fase Principal: você pode escolher 1 card \"Fera Cristalina\" na sua Zona de Magias & Armadilhas; Invoque o alvo por Invocação-Especial.",
+    "race": "Field",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/34487429.jpg"
+  },
+  {
+    "nome": "Conclave Cristalino",
+    "tipo": "Trap Card",
+    "subCardType": "Continuous Trap",
+    "desc": "Uma vez por turno, se um ou mais monstros \"Fera Cristalina\" com a face para cima que você controla forem destruídos em batalha ou por um efeito de card: você pode Invocar por Invocação-Especial 1 monstro \"Fera Cristalina\" do seu Deck. Você pode enviar este card com a face para cima do campo para o Cemitério e, depois, escolha 1 card \"Fera Cristalina\" que você controla e 1 card no campo; devolva-os para a mão. Você não pode ativar esses efeitos na mesma Corrente.",
+    "race": "Continuous",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/87259933.jpg"
+  },
+  {
+    "nome": "Contra Gema",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Envie para o Cemitério todos os cards na sua Zona de Magias & Armadilhas. Coloque tantos monstros \"Fera Cristalina\" quanto possível do seu Cemitério, com a face para cima na sua Zona de Magias & Armadilhas como Magias Contínuas. Durante a Fase Final deste turno, destrua todos os cards \"Fera Cristalina\" que você controla.",
+    "race": "Normal",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/11136371.jpg"
+  },
+  {
+    "nome": "Dádiva Cristalina",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Invoque por Invocação-Especial até 2 Cards de Monstro \"Fera Cristalina\" da sua Zona de Magias & Armadilhas e, se isso acontecer, ganhe PV igual ao ATK original combinado deles. Se um ou mais cards \"Fera Cristalina\" forem colocados na sua Zona de Magias & Armadilhas enquanto este card estiver no seu Cemitério, mesmo durante a Etapa de Dano: você pode banir este card; escave o card do topo do seu Deck e, se for um monstro \"Fera Cristalina\", adicione-o à sua mão ou Invoque-o por Invocação-Especial. Caso contrário, envie esse card para o Cemitério. Você só pode usar este efeito de \"Dádiva Cristalina\" uma vez por turno.",
+    "race": "Normal",
+    "arquetipo": "Crystal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/85766789.jpg"
+  },
+  {
+    "nome": "Defensor Cristalino",
+    "tipo": "Pendulum Effect Monster",
+    "subCardType": "Pendulum Effect Monster",
+    "desc": "[ Pendulum Effect ] \nEach turn, the first time an \"Ultimate Crystal\" monster(s) and/or \"Crystal Beast\" card(s) you control would be destroyed by card effect that turn, it is not destroyed.\n\n[ Monster Effect ] \nSe um monstro \"Fera Cristalina\" que você controla batalhar um monstro do oponente, durante o cálculo de dano (Efeito Rápido): você pode oferecer este card como Tributo da sua mão ou do campo com a face para cima; o ATK/DEF do seu monstro que estiver batalhando se torna o dobro do seu ATK/DEF originais, apenas durante esse cálculo de dano, mas ele é destruído no final desta Etapa de Dano.",
+    "monster_desc": "Se um monstro \"Fera Cristalina\" que você controla batalhar um monstro do oponente, durante o cálculo de dano (Efeito Rápido): você pode oferecer este card como Tributo da sua mão ou do campo com a face para cima; o ATK/DEF do seu monstro que estiver batalhando se torna o dobro do seu ATK/DEF originais, apenas durante esse cálculo de dano, mas ele é destruído no final desta Etapa de Dano.",
+    "race": "Warrior",
+    "atk": 1500,
+    "def": 1800,
+    "arquetipo": "Crystal Beast",
+    "level": 4,
+    "scale": 2,
+    "card_image": "https://images.ygoprodeck.com/images/cards/14469229.jpg"
+  },
+  {
+    "nome": "Deslocador Dimensional",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se você não tiver cards no seu Cemitério (Efeito Rápido): você pode enviar este card da sua mão para o Cemitério; até o final do próximo turno, qualquer card enviado para o Cemitério, em vez disso, é banido.",
+    "race": "Spellcaster",
+    "atk": 1200,
+    "def": 2200,
+    "level": 6,
+    "card_image": "https://images.ygoprodeck.com/images/cards/91800273.jpg"
+  },
+  {
+    "nome": "Despertar dos Definitivos Cristalinos",
+    "tipo": "Spell Card",
+    "subCardType": "Quick-Play Spell",
+    "desc": "Revele 1 monstro \"Cristalino(a) Definitivo(a)\" na sua mão e, depois, ative 1 desses efeitos. Se você controlar um monstro \"Cristalino(a) Definitivo(a)\", em vez disso, você pode ativar 1 ou 2 desses efeitos em sequência (e não precisa revelar um monstro).\n●Pegue 1 card \"Ponte Arco-Íris\" ou 1 \"Refração Arco-Íris\" do seu Deck e adicione-o à sua mão ou envie-o para o Cemitério.\n●Invoque por Invocação-Especial 1 Card de Monstro \"Fera Cristalina\" da sua mão, do Deck, do Cemitério ou da sua Zona de Magias & Armadilhas.\nVocê só pode ativar 1 \"Despertar dos Definitivos Cristalinos\" por turno.",
+    "race": "Quick-Play",
+    "arquetipo": "Crystal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/12877076.jpg"
+  },
+  {
+    "nome": "Dragão Arco-Íris",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "(Este card deve ser sempre considerado como um card \"Cristalino(a) Definitivo(a)\".)\nNão pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao ter 7 cards \"Fera Cristalina\" com nomes diferentes no seu campo e/ou Cemitério. Este card não pode ativar os seguintes efeitos no turno em que for Invocado por Invocação-Especial. (Efeito Rápido): você pode enviar para o Cemitério todos os monstros \"Fera Cristalina\" que você controla; este card ganha 1000 de ATK para cada monstro enviado para o Cemitério. Você pode banir todos os monstros \"Fera Cristalina\" do seu Cemitério; embaralhe no Deck todos os cards no campo.",
+    "race": "Dragon",
+    "atk": 4000,
+    "def": 0,
+    "arquetipo": "Crystal Beast",
+    "level": 10,
+    "card_image": "https://images.ygoprodeck.com/images/cards/79856792.jpg"
+  },
+  {
+    "nome": "Dragão Negro Arco-Íris",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "(Este card deve ser sempre considerado como um card \"Cristalino(a) Definitivo(a)\".)\nNão pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao banir 7 monstros de TREVAS com nomes diferentes do seu Cemitério. Você pode banir todos os outros monstros de TREVAS do seu campo e Cemitério; este card ganha 500 de ATK para cada card banido desta forma.",
+    "race": "Dragon",
+    "atk": 4000,
+    "def": 0,
+    "level": 10,
+    "card_image": "https://images.ygoprodeck.com/images/cards/79407975.jpg"
+  },
+  {
+    "nome": "Égide Cristalino",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Escolha 1 Card de Monstro \"Fera Cristalina\" que você controla; destrua-o e, depois, Invoque por Invocação-Especial 1 \"Ficha de Fera Cristalina\" com o Tipo, Atributo, Nível e ATK/DEF originais do monstro destruído. Se um ou mais cards \"Fera Cristalina\" forem colocados na sua Zona de Magias & Armadilhas enquanto este card estiver no seu Cemitério, mesmo durante a Etapa de Dano: você pode banir este card; Invoque por Invocação-Especial 1 Card de Monstro \"Fera Cristalina\" da sua Zona de Magias & Armadilhas. Você só pode usar este efeito de \"Égide Cristalino\" uma vez por turno.",
+    "race": "Normal",
+    "arquetipo": "Crystal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/58371671.jpg"
+  },
+  {
+    "nome": "Espólios do Enterro Tolo",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Envie 1 Magia/Armadilha do seu Deck para o Cemitério. Você só pode ativar 1 \"Espólios do Enterro Tolo\" por turno.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/35726888.jpg"
+  },
+  {
+    "nome": "Fantasma Belle & Mansão Assombrada",
+    "tipo": "Tuner Monster",
+    "subCardType": "Tuner Effect Monster",
+    "desc": "Quando um card ou efeito for ativado que inclua qualquer um desses efeitos (Efeito Rápido): você pode descartar este card; negue a ativação.\n●Adicionar um ou mais cards do Cemitério à mão, ao Deck e/ou ao Deck Adicional.\n●Invocar por Invocação-Especial um ou mais Cards de Monstro do Cemitério.\n●Banir um ou mais cards do Cemitério.\nVocê só pode usar este efeito de \"Fantasma Belle & Mansão Assombrada\" uma vez por turno.",
+    "race": "Zombie",
+    "atk": 0,
+    "def": 1800,
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/73642296.jpg"
+  },
+  {
+    "nome": "Farol Cristalino",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Invoque por Invocação-Especial 1 monstro \"Fera Cristalina\" do seu Deck. Você deve ter 2 ou mais cards \"Fera Cristalina\" na sua Zona de Magias & Armadilhas para ativar e resolver este efeito.",
+    "race": "Normal",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/95326659.jpg"
+  },
+  {
+    "nome": "Fera Cristalina Águia Cobalto",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Uma vez por turno: você pode escolher 1 card \"Fera Cristalina\" que você controla; coloque o alvo no topo do Deck. Se este card com a face para cima for destruído em uma Zona de Monstros, em vez de enviá-lo para o Cemitério, você pode colocá-lo com a face para cima na sua Zona de Magias & Armadilhas como uma Magia Contínua.",
+    "race": "Winged Beast",
+    "atk": 1400,
+    "def": 800,
+    "arquetipo": "Crystal Beast",
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/21698716.jpg"
+  },
+  {
+    "nome": "Fera Cristalina Carbúnculo Rubi",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Quando este card for Invocado por Invocação-Especial: você pode Invocar por Invocação-Especial tantos Cards de Monstro \"Fera Cristalina\" quanto possível das suas Zonas de Magias & Armadilhas. Se este card com a face para cima for destruído em uma Zona de Monstros, em vez de enviá-lo para o Cemitério, você pode colocá-lo com a face para cima na sua Zona de Magias & Armadilhas como uma Magia Contínua.",
+    "race": "Fairy",
+    "atk": 300,
+    "def": 300,
+    "arquetipo": "Crystal Beast",
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/32710364.jpg"
+  },
+  {
+    "nome": "Fera Cristalina Dragão Arco-Íris",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se este card com a face para cima for destruído na Zona de Monstros, você pode colocá-lo com a face para cima na sua Zona de Magias & Armadilhas como uma Magia Contínua em vez de enviá-lo para o Cemitério. Você só pode usar cada um dos seguintes efeitos de \"Fera Cristalina Dragão Arco-Íris\" uma vez por turno. Quando um ataque for declarado envolvendo um monstro \"Fera Cristalina\": você pode Invocar este card por Invocação-Especial da sua mão. Você pode banir este card considerado como uma Magia Contínua; Invoque por Invocação-Especial 1 monstro \"Fera Cristalina\" de Nível 4 ou menos do seu Deck, mas negue seus efeitos e, se isso acontecer, adicione 1 monstro \"Cristalino(a) Definitivo(a)\" do seu Deck à sua mão.",
+    "race": "Dragon",
+    "atk": 3000,
+    "def": 0,
+    "arquetipo": "Crystal Beast",
+    "level": 8,
+    "card_image": "https://images.ygoprodeck.com/images/cards/36795102.jpg"
+  },
+  {
+    "nome": "Fera Cristalina Gata Ametista",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Este card pode atacar diretamente seu oponente, mas quando ele usar este efeito, qualquer dano de batalha que ele causar ao seu oponente é diminuído pela metade. Se este card com a face para cima for destruído em uma Zona de Monstros, em vez de enviá-lo para o Cemitério, você pode colocá-lo com a face para cima na sua Zona de Magias & Armadilhas como uma Magia Contínua.",
+    "race": "Beast",
+    "atk": 1200,
+    "def": 400,
+    "arquetipo": "Crystal Beast",
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/32933942.jpg"
+  },
+  {
+    "nome": "Fera Cristalina Mamute Âmbar",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Quando outro monstro \"Fera Cristalina\" que você controla for escolhido como alvo de um ataque: você pode mudar o alvo do ataque para este card. Se este card com a face para cima for destruído em uma Zona de Monstros, em vez de enviá-lo para o Cemitério, você pode colocá-lo com a face para cima na sua Zona de Magias & Armadilhas como uma Magia Contínua.",
+    "race": "Beast",
+    "atk": 1700,
+    "def": 1600,
+    "arquetipo": "Crystal Beast",
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/69937550.jpg"
+  },
+  {
+    "nome": "Fera Cristalina Pégaso Safira",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Quando este card for Invocado: você pode colocar 1 monstro \"Fera Cristalina\" da sua mão, do Deck ou do Cemitério, com a face para cima na sua Zona de Magias & Armadilhas como uma Magia Contínua. Se este card com a face para cima for destruído em uma Zona de Monstros, em vez de enviá-lo para o Cemitério, você pode colocá-lo com a face para cima na sua Zona de Magias & Armadilhas como uma Magia Contínua.",
+    "race": "Beast",
+    "atk": 1800,
+    "def": 1200,
+    "arquetipo": "Crystal Beast",
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/7093411.jpg"
+  },
+  {
+    "nome": "Fera Cristalina Tartaruga Esmeralda",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Uma vez por turno: você pode escolher 1 monstro que você controla que atacou neste turno; coloque o alvo em Posição de Defesa. Se este card com a face para cima for destruído em uma Zona de Monstros, em vez de enviá-lo para o Cemitério, você pode colocá-lo com a face para cima na sua Zona de Magias & Armadilhas como uma Magia Contínua.",
+    "race": "Aqua",
+    "atk": 600,
+    "def": 2000,
+    "arquetipo": "Crystal Beast",
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/68215963.jpg"
+  },
+  {
+    "nome": "Fera Cristalina Tigre Topázio",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se este card atacar um monstro do oponente, ele ganha 400 de ATK, apenas durante a Etapa de Dano. Se este card com a face para cima for destruído em uma Zona de Monstros, em vez de enviá-lo para o Cemitério, você pode colocá-lo com a face para cima na sua Zona de Magias & Armadilhas como uma Magia Contínua.",
+    "race": "Beast",
+    "atk": 1600,
+    "def": 1000,
+    "arquetipo": "Crystal Beast",
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/95600067.jpg"
+  },
+  {
+    "nome": "Florescer de Cinzas & Primavera Feliz",
+    "tipo": "Tuner Monster",
+    "subCardType": "Tuner Effect Monster",
+    "desc": "Quando um card ou efeito for ativado que inclua qualquer um desses efeitos (Efeito Rápido): você pode descartar este card; negue o efeito.\n●Adicionar um card do Deck à mão.\n●Invocar por Invocação-Especial do Deck.\n●Enviar um card do Deck para o Cemitério.\nVocê só pode usar este efeito de \"Florescer de Cinzas & Primavera Feliz\" uma vez por turno.",
+    "race": "Zombie",
+    "atk": 0,
+    "def": 1800,
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/14558127.jpg"
+  },
+  {
+    "nome": "Furão de Chamas",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Se o ATK combinado de todos os monstros com a face para cima que seu oponente controla for maior que seus PV: faça com que seu oponente embaralhe no Deck os monstros com a face para cima que ele controla (ele seleciona), exceto monstros com 0 de ATK, de forma que o ATK combinado dos monstros restantes que ele controla se torne igual ou menor que os seus PV.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/31044787.jpg"
+  },
+  {
+    "nome": "Hamon, o Senhor do Trovão Impactante",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao enviar 3 Magias Contínuas com a face para cima que você controla para o Cemitério. Se este card destruir um monstro do oponente em batalha e enviá-lo para o Cemitério: cause 1000 de dano ao seu oponente. Enquanto este card estiver com a face para cima em Posição de Defesa, monstros que seu oponente controla não podem escolher monstros como alvo de ataques, exceto este.",
+    "race": "Thunder",
+    "atk": 4000,
+    "def": 4000,
+    "arquetipo": "Sacred Beast",
+    "level": 10,
+    "card_image": "https://images.ygoprodeck.com/images/cards/32491822.jpg"
+  },
+  {
+    "nome": "Libertação Cristalina",
+    "tipo": "Spell Card",
+    "subCardType": "Equip Spell",
+    "desc": "Só pode ser equipado a um monstro \"Fera Cristalina\". Ele ganha 800 de ATK. Quando este card for enviado do campo para o Cemitério: você pode colocar 1 monstro \"Fera Cristalina\" do seu Deck com a face para cima na sua Zona de Magias & Armadilhas como uma Magia Contínua.",
+    "race": "Equip",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/10004783.jpg"
+  },
+  {
+    "nome": "Magia Cristalina Definitiva",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Quando um monstro \"Fera Cristalina\" seu for destruído em batalha: você pode enviar para o Cemitério 7 cards \"Fera Cristalina\" com nomes diferentes da sua mão, do Deck e/ou do campo com a face para cima; Invoque por Invocação-Especial 1 Monstro de Fusão \"Cristalino(a) Definitivo(a)\" do seu Deck Adicional. (Isso é considerado uma Invocação-Fusão.) Se um monstro \"Cristalino(a) Definitivo(a)\" com a face para cima que você controla deixar o campo devido a um efeito de card do oponente: você pode banir este card do seu Cemitério; coloque qualquer número de monstros \"Fera Cristalina\" do seu Cemitério, com a face para cima na sua Zona de Magias & Armadilhas como Magias Contínuas.",
+    "race": "Normal",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/36328300.jpg"
+  },
+  {
+    "nome": "Mestre Cristalino",
+    "tipo": "Pendulum Effect Monster",
+    "subCardType": "Pendulum Effect Monster",
+    "desc": "[ Pendulum Effect ] \nYour opponent cannot target \"Ultimate Crystal\" monsters or \"Crystal Beast\" cards you control with card effects.\n\n[ Monster Effect ] \nVocê pode oferecer este card como Tributo; adicione 1 monstro \"Cristalino(a) Definitivo(a)\", monstro \"Fera Cristalina\", ou Magia/Armadilha \"Cristalino(a)\" do seu Deck à sua mão.",
+    "monster_desc": "Você pode oferecer este card como Tributo; adicione 1 monstro \"Cristalino(a) Definitivo(a)\", monstro \"Fera Cristalina\", ou Magia/Armadilha \"Cristalino(a)\" do seu Deck à sua mão.",
+    "race": "Spellcaster",
+    "atk": 1300,
+    "def": 1000,
+    "arquetipo": "Crystal Beast",
+    "level": 3,
+    "scale": 5,
+    "card_image": "https://images.ygoprodeck.com/images/cards/87475570.jpg"
+  },
+  {
+    "nome": "Metaverso",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Pegue 1 Magia de Campo do seu Deck e ative-a ou adicione-a à sua mão.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/89208725.jpg"
+  },
+  {
+    "nome": "Milagre Cristalino",
+    "tipo": "Trap Card",
+    "subCardType": "Counter Trap",
+    "desc": "Quando um Card de Magia/Armadilha, ou efeito de monstro, for ativado: destrua 1 card \"Fera Cristalina\" que você controla e, se isso acontecer, negue a ativação e, se isso acontecer, destrua esse card. Se um ou mais cards \"Fera Cristalina\" forem colocados na sua Zona de Magias & Armadilhas enquanto este card estiver no seu Cemitério, mesmo durante a Etapa de Dano: você pode banir este card; coloque 1 monstro \"Fera Cristalina\" da sua mão, do Deck ou do Cemitério, com a face para cima na sua Zona de Magias & Armadilhas como uma Magia Contínua. Você só pode usar este efeito de \"Milagre Cristalino\" uma vez por turno.",
+    "race": "Counter",
+    "arquetipo": "Crystal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/11155484.jpg"
+  },
+  {
+    "nome": "Par Cristalino",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Quando um monstro \"Fera Cristalina\" que você controla for destruído em batalha e enviado para o Cemitério: coloque 1 monstro \"Fera Cristalina\" do seu Deck com a face para cima na sua Zona de Magias & Armadilhas como uma Magia Contínua e, se isso acontecer, você não sofre dano de batalha pelo resto deste turno.",
+    "race": "Normal",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/47121070.jpg"
+  },
+  {
+    "nome": "Ponte Arco-Íris",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Adicione 1 Magia/Armadilha \"Cristalino(a)\" do seu Deck à sua mão.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/63945693.jpg"
+  },
+  {
+    "nome": "Ponte Arco-Íris do Coração",
+    "tipo": "Spell Card",
+    "subCardType": "Continuous Spell",
+    "desc": "Durante sua Fase Principal, você pode Invocar por Invocação-Normal 1 monstro \"Fera Cristalina\", em adição à sua Invocação-Normal/Baixar (padrão). (Você só pode se aproveitar deste efeito uma vez por turno.) Você só pode usar cada um dos seguintes efeitos de \"Ponte Arco-Íris do Coração\" uma vez por turno. Durante sua Fase Principal: você pode destruir 1 card \"Fera Cristalina\" que você controla ou na sua mão e, se isso acontecer, adicione 1 Magia/Armadilha \"Cristalino(a)\" do seu Deck à sua mão. Se um ou mais cards \"Fera Cristalina\" forem colocados na sua Zona de Magias & Armadilhas, mesmo durante a Etapa de Dano: você pode escolher 1 card que seu oponente controla; devolva tanto esse card quanto este card para a mão.",
+    "race": "Continuous",
+    "arquetipo": "Rainbow Bridge",
+    "card_image": "https://images.ygoprodeck.com/images/cards/10938846.jpg"
+  },
+  {
+    "nome": "Promessa Cristalina",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Escolha 1 card \"Fera Cristalina\" na sua Zona de Magias & Armadilhas; Invoque o alvo por Invocação-Especial.",
+    "race": "Normal",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/8275702.jpg"
+  },
+  {
+    "nome": "Refração Arco-Íris",
+    "tipo": "Spell Card",
+    "subCardType": "Quick-Play Spell",
+    "desc": "Se um ou mais monstros que você controla cujos nomes originais sejam \"Dragão Arco-Íris\" ou \"Dragão Negro Arco-Íris\" ativaram seus efeitos neste turno: Invoque por Invocação-Especial qualquer número de monstros \"Fera Cristalina\" com nomes diferentes do seu Deck.",
+    "race": "Quick-Play",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/40854824.jpg"
+  },
+  {
+    "nome": "Sobremarcha do Dragão Arco-Íris Cristalino Definitivo",
+    "tipo": "Fusion Monster",
+    "subCardType": "Fusion Effect Monster",
+    "desc": "1 monstro \"Cristalino(a) Definitivo(a)\" + 7 monstros \"Fera Cristalina\"\nDeve ser Invocado por Invocação-Especial (do seu Deck Adicional) durante um Duelo em que você Invocou um monstro \"Cristalino(a) Definitivo(a)\" por Invocação-Especial, ao banir os monstros acima do seu campo e/ou Cemitério. Enquanto 7 ou mais dos seus monstros \"Fera Cristalina\" com nomes diferentes estiverem banidos, este card ganha 7000 de ATK. Se este card não batalhou neste turno (Efeito Rápido): você pode oferecer este card como Tributo; embaralhe no Deck tantos cards no campo quanto possível e, se isso acontecer, Invoque por Invocação-Especial qualquer número dos seus monstros \"Fera Cristalina\" banidos.",
+    "race": "Dragon",
+    "atk": 4000,
+    "def": 0,
+    "arquetipo": "Crystal",
+    "level": 12,
+    "card_image": "https://images.ygoprodeck.com/images/cards/84544192.jpg"
+  },
+  {
+    "nome": "Supradragão Arco-Íris",
+    "tipo": "Fusion Monster",
+    "subCardType": "Fusion Effect Monster",
+    "desc": "7 monstros \"Fera Cristalina\"\n(Este card deve ser sempre considerado como um card \"Cristalino(a) Definitivo(a)\".)\nDeve ser Invocado por Invocação-Fusão ou por Invocação-Especial ao oferecer como Tributo 1 monstro \"Cristalino(a) Definitivo(a)\" de Nível 10. Uma vez por turno: você pode banir 1 monstro \"Fera Cristalina\" do seu Cemitério; até o final deste turno, este card ganha ATK igual ao do monstro banido. (Efeito Rápido): você pode oferecer este card Invocado por Invocação-Fusão como Tributo; embaralhe no Deck todos os cards no campo.",
+    "race": "Dragon",
+    "atk": 4000,
+    "def": 0,
+    "arquetipo": "Crystal Beast",
+    "level": 12,
+    "card_image": "https://images.ygoprodeck.com/images/cards/37440988.jpg"
+  },
+  {
+    "nome": "Trevas Avançadas",
+    "tipo": "Spell Card",
+    "subCardType": "Field Spell",
+    "desc": "Todos os monstros \"Fera Cristalina\" no campo e no Cemitério se tornam de TREVAS. Se um monstro \"Cristalino(a) Definitivo(a)\" atacar, negue os efeitos do alvo do ataque durante essa Fase de Batalha. Durante o cálculo de dano, se um monstro \"Fera Cristalina\" que você controla batalhar e você sofreria dano: você pode enviar 1 monstro \"Fera Cristalina\" do seu Deck para o Cemitério; você não sofre dano de batalha dessa batalha.",
+    "race": "Field",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/12644061.jpg"
+  },
+  {
+    "nome": "Valor Raro",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Se você controlar 2 ou mais cards \"Fera Cristalina\" na sua Zona de Magias & Armadilhas: seu oponente seleciona 1 card \"Fera Cristalina\" na sua Zona de Magias & Armadilhas, envie-o para o Cemitério e, se isso acontecer, compre 2 cards.",
+    "race": "Normal",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/60876124.jpg"
+  },
+  {
+    "nome": "Vínculo Cristalino",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Adicione 1 monstro \"Fera Cristalina\" do seu Deck à sua mão e coloque 1 monstro \"Fera Cristalina\" com um nome diferente do seu Deck, com a face para cima na sua Zona de Magias & Armadilhas como uma Magia Contínua. Você só pode ativar 1 \"Vínculo Cristalino\" por turno.",
+    "race": "Normal",
+    "arquetipo": "Crystal Beast",
+    "card_image": "https://images.ygoprodeck.com/images/cards/9334391.jpg"
+  }
+]
