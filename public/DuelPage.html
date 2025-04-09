@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yu-Gi-Oh</title>
+    <link rel="stylesheet" href="/styles/general.css">
+    <link rel="stylesheet" href="/styles/field.css">
+    <link rel="stylesheet" href="/styles/hand.css">
+    <link rel="stylesheet" href="/styles/infoTab.css">
+    <link rel="stylesheet" href="/styles/cemetery.css">
+    <link rel="stylesheet" href="/styles/stages.css">
+    <link rel="stylesheet" href="/styles/checkDeck.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap"
+          rel="stylesheet">
+</head>
+<body>
+<!-- Escolha do Deck -->
+<div class="checkDeck">
+    <div class="modalDeck">
+        <div class="modalDeckContent">
+            <label class="image-wrapper">
+                <input class="radio" type="radio" name="image">
+                <img class="DeckImg" src="/media/Decks/DeckCyber/DeckCyberStrike.png" alt="Imagem 1">
+                <br/>
+                Deck Estrutural: Cyber Strike
+            </label>
+            <label class="image-wrapper">
+                <input class="radio" type="radio" name="image">
+                <img class="DeckImg" src="/media/Decks/DeckFera/DeckFeraCristalina.png" alt="Imagem 2">
+                <br/>
+                Deck Estrutural: Feras Cristalinas
+            </label>
+            <label class="image-wrapper">
+                <input class="radio" type="radio" name="image">
+                <img class="DeckImg" src="/media/Decks/DeckLink/DeckLinkCiberso.png" alt="Imagem 3">
+                <br/>
+                Deck Estrutural: Link Ciberso
+            </label>
+        </div>
+        <button id="deckEscolhido" type="button">Escolher Deck</button>
+        <p></p>
+    </div>
+</div>
+
+<!-- Efeito 3D do Campo -->
+<div class="perspectiva">
+    <!-- Parte Preta, Campo -->
+    <div class="campo-duelo">
+        <!-- Campo do Inimigo -->
+        <div class="campo-jogador">
+            <div class="linhaCardCima">
+                <div class="cardEspaco ICemiterio"><img class="card" alt="">
+                </div>
+                <div class="cardEspaco IMagica"><img class="card" alt=""></div>
+                <div class="cardEspaco IMagica"><img class="card" alt=""></div>
+                <div class="cardEspaco IMagica"><img class="card" alt=""></div>
+                <div class="cardEspaco IMagica"><img class="card" alt=""></div>
+                <div class="cardEspaco IMagica"><img class="card" alt=""></div>
+                <div class="cardEspaco IDeckAdicional"><img class="card" alt="">
+                </div>
+            </div>
+            <div class="linhaCardBaixo linhaMeio">
+                <div class="cardEspaco IDeck"><img class="card" alt=""></div>
+                <div class="cardEspaco IMonstro"><img class="card" alt=""></div>
+                <div class="cardEspaco IMonstro"><img class="card" alt=""></div>
+                <div class="cardEspaco IMonstro"><img class="card" alt=""></div>
+                <div class="cardEspaco IMonstro"><img class="card" alt=""></div>
+                <div class="cardEspaco IMonstro"><img class="card" alt=""></div>
+                <div class="cardEspaco ICampo"><img class="card" alt=""></div>
+            </div>
+        </div>
+        <!-- Local de Monstros Adicionais -->
+        <div class="MA MonstroAdicional1"><img class="card" alt=""></div>
+        <div class="MA MonstroAdicional2"><img class="card" alt=""></div>
+        <!-- Campo de Jogador -->
+        <div class="campo-jogador">
+            <div class="linhaCardCima linhaMeio">
+                <div class="cardEspaco JCampo"><img class="card" alt=""></div>
+                <div class="cardEspaco JMonstro"><img class="card" alt=""></div>
+                <div class="cardEspaco JMonstro"><img class="card" alt=""></div>
+                <div class="cardEspaco JMonstro"><img class="card" alt=""></div>
+                <div class="cardEspaco JMonstro"><img class="card" alt=""></div>
+                <div class="cardEspaco JMonstro"><img class="card" alt=""></div>
+                <div class="cardEspaco JDeck"><img class="card" alt=""></div>
+            </div>
+            <div class="linhaCardBaixo">
+                <div class="cardEspaco JDeckAdicional"><img class="card" alt="">
+                </div>
+                <div class="cardEspaco JMagica"><img class="card" alt=""></div>
+                <div class="cardEspaco JMagica"><img class="card" alt=""></div>
+                <div class="cardEspaco JMagica"><img class="card" alt=""></div>
+                <div class="cardEspaco JMagica"><img class="card" alt=""></div>
+                <div class="cardEspaco JMagica"><img class="card" alt=""></div>
+                <div class="cardEspaco JCemiterio"><img class="card" alt="">
+                </div>
+            </div>
+        </div>
+        <!-- Modal Parte 1 -->
+        <div id="modalCemetery" class="modal"></div>
+    </div>
+    <!-- Modal Parte 2 -->
+    <div class="modalCards">
+        <span class="fechar">&times;</span>
+        <h2>Cemitério</h2>
+        <div class="linhaCemiterio">
+            <div class="espacoCemiterio"><img class="cardCemiterio" alt=""></div>
+            <div class="espacoCemiterio"><img class="cardCemiterio" alt=""></div>
+            <div class="espacoCemiterio"><img class="cardCemiterio" alt=""></div>
+            <div class="espacoCemiterio"><img class="cardCemiterio" alt=""></div>
+            <div class="espacoCemiterio"><img class="cardCemiterio" alt=""></div>
+            <div class="espacoCemiterio"><img class="cardCemiterio" alt=""></div>
+            <div class="espacoCemiterio"><img class="cardCemiterio" alt=""></div>
+            <div class="espacoCemiterio"><img class="cardCemiterio" alt=""></div>
+        </div>
+    </div>
+</div>
+
+<!-- Aba de Informação das Cartas -->
+<div class="infoAba">
+</div>
+
+<!-- Cartas na mão do jogador -->
+<div class="hand">
+</div>
+
+<!-- Lugar para Visualizar/Mudar Fases do Duelo -->
+<div class="currentPhase">
+    <button id="changePhase" role="button" type="button"></button>
+</div>
+<div id="modalPhases" class="modal">
+    <div class="modalPhase">
+        <div class="phases">
+            <div class="phase">
+                <p>Draw Phase</p>
+            </div>
+            <div class="phase">
+                <p>Standby Phase</p>
+            </div>
+            <div class="phase">
+                <p>Main Phase</p>
+            </div>
+            <div class="phase">
+                <p>Battle Phase</p>
+            </div>
+            <div class="phase">
+                <p>Main Phase 2</p>
+            </div>
+            <div class="phase">
+                <p>End Phase</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="scripts">
+    <script type="module" src="/scripts/deckSelection.js"></script>
+    <script type="module" src="/scripts/fieldFunctions.js"></script>
+    <script type="module" src="/scripts/playCard.js"></script>
+    <script type="module" src="/scripts/cemetery.js"></script>
+    <script type="module" src="/scripts/phases.js"></script>
+</div>
+</body>
+</html>

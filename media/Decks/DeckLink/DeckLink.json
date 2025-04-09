@@ -1,0 +1,442 @@
+[
+  {
+    "nome": "Backlinker",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se somente seu oponente controlar um monstro na Zona de Monstros Adicional, você pode Invocar este card por Invocação-Especial (da sua mão). Você pode oferecer este card como Tributo; embaralhe no Deck todos os monstros da Zona do Deck Adicional e, além disso, você não pode Invocar monstros por Invocação-Especial do Deck Adicional pelo resto deste turno.",
+    "race": "Cyberse",
+    "atk": 1600,
+    "def": 0,
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/71172240.jpg"
+  },
+  {
+    "nome": "Barragem Dimensional",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Declare 1 tipo de card de monstro (Ritual, Fusão, Sincro, Xyz ou Pêndulo); pelo resto deste turno, nenhum duelista pode Invocar monstros do tipo declarado por Invocação-Especial e, além disso, negue os efeitos de todos os monstros desse tipo enquanto eles estiverem no campo. Você só pode ativar 1 \"Barragem Dimensional\" por turno.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/83326048.jpg"
+  },
+  {
+    "nome": "Bobo da Corte Confeitado",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Você só pode controlar 1 \"Bobo da Corte Confeitado\". Você pode Invocar este card por Invocação-Especial (da sua mão) em Posição de Ataque. Se Invocado desta forma, durante a próxima Fase Final do seu oponente: escolha 1 monstro com a face para cima que seu oponente controla; devolva tanto o alvo como este card com a face para cima para a mão.",
+    "race": "Spellcaster",
+    "atk": 0,
+    "def": 0,
+    "arquetipo": "Jester",
+    "level": 1,
+    "card_image": "https://images.ygoprodeck.com/images/cards/8487449.jpg"
+  },
+  {
+    "nome": "Boot Veassutado",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Quando um monstro Ciberso for Invocado por Invocação-Normal no seu campo: você pode Invocar este card por Invocação-Especial da sua mão. Você só pode usar este efeito de \"Boot Veassutado\" uma vez por turno. Quando este card causar dano de batalha ao seu oponente: você pode Invocar por Invocação-Especial 1 \"Ficha de Veado\" (Ciberso/TERRA/Nível 1/ATK 0/DEF 0).",
+    "race": "Cyberse",
+    "atk": 2300,
+    "def": 500,
+    "level": 5,
+    "card_image": "https://images.ygoprodeck.com/images/cards/70950698.jpg"
+  },
+  {
+    "nome": "Bulbo Brilhante",
+    "tipo": "Tuner Monster",
+    "subCardType": "Tuner Effect Monster",
+    "desc": "Se este card estiver no seu Cemitério: você pode enviar o card do topo do seu Deck para o Cemitério e, se isso acontecer, Invoque este card por Invocação-Especial. Você só pode usar este efeito de \"Bulbo Brilhante\" uma vez por Duelo.",
+    "race": "Plant",
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "card_image": "https://images.ygoprodeck.com/images/cards/67441435.jpg"
+  },
+  {
+    "nome": "Carregar Alma",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Escolha qualquer número de monstros no seu Cemitério; Invoque-os por Invocação-Especial e, se isso acontecer, você perde 1000 PV para cada monstro Invocado por Invocação-Especial por este efeito. Você não pode conduzir sua Fase de Batalha no turno em que ativar este card. Você só pode ativar 1 \"Carregar Alma\" por turno.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/54447022.jpg"
+  },
+  {
+    "nome": "Ciclone Cósmico",
+    "tipo": "Spell Card",
+    "subCardType": "Quick-Play Spell",
+    "desc": "Pague 1000 PV e, depois, escolha 1 Magia/Armadilha no campo; bana-a.",
+    "race": "Quick-Play",
+    "card_image": "https://images.ygoprodeck.com/images/cards/8267140.jpg"
+  },
+  {
+    "nome": "Cinet Backdoor",
+    "tipo": "Spell Card",
+    "subCardType": "Quick-Play Spell",
+    "desc": "Escolha 1 monstro Ciberso que você controla; bana-o e, se isso acontecer, adicione 1 monstro Ciberso do seu Deck à sua mão, cujo ATK seja menor que o ATK original desse monstro. Durante sua próxima Fase de Apoio, devolva o monstro banido por este efeito para o campo e ele pode atacar diretamente nesse turno. Você só pode ativar 1 \"Cinet Backdoor\" por turno.",
+    "race": "Quick-Play",
+    "card_image": "https://images.ygoprodeck.com/images/cards/43839002.jpg"
+  },
+  {
+    "nome": "Comandante Iniciador",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Todos os outros monstros Ciberso que você controla ganham 300 de ATK/DEF. Uma vez por turno: você pode oferecer como Tributo 1 monstro Ciberso e, depois, escolher 1 monstro com a face para cima que seu oponente controla; destrua-o.",
+    "race": "Cyberse",
+    "atk": 1700,
+    "def": 1200,
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/35911108.jpg"
+  },
+  {
+    "nome": "Controle Mental",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Escolha 1 monstro que seu oponente controla; até a Fase Final, tome o controle do alvo, mas ele não pode declarar um ataque nem ser oferecido como Tributo.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/37520316.jpg"
+  },
+  {
+    "nome": "D.O.D. - Reencarnação de Outra Dimensão",
+    "tipo": "Spell Card",
+    "subCardType": "Equip Spell",
+    "desc": "Descarte 1 card e, depois, escolha 1 dos seus monstros banidos; Invoque-o por Invocação-Especial em Posição de Ataque e equipe-o com este card. Quando este card deixar o campo, destrua esse monstro.",
+    "race": "Equip",
+    "arquetipo": "D.D.",
+    "card_image": "https://images.ygoprodeck.com/images/cards/9622164.jpg"
+  },
+  {
+    "nome": "Despertar do Milagre",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Escolha 1 monstro que foi destruído em batalha e enviado para o seu Cemitério neste turno; Invoque-o por Invocação-Especial.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/21636650.jpg"
+  },
+  {
+    "nome": "Digitron",
+    "tipo": "Normal Monster",
+    "subCardType": "Normal Monster",
+    "desc": "Uma subespécie encontrada no espaço eletrônico. Há pouca informação sobre ela.",
+    "race": "Cyberse",
+    "atk": 1500,
+    "def": 0,
+    "level": 2,
+    "card_image": "https://images.ygoprodeck.com/images/cards/32295838.jpg"
+  },
+  {
+    "nome": "Dotscaper",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se este card for enviado para o Cemitério: você pode Invocar este card por Invocação-Especial. Se este card for banido: você pode Invocar este card por Invocação-Especial. Você só pode usar 1 efeito de \"Dotscaper\" por turno e apenas uma vez por turno. Você só pode usar cada efeito de \"Dotscaper\" uma vez por Duelo.",
+    "race": "Cyberse",
+    "atk": 0,
+    "def": 2100,
+    "level": 1,
+    "card_image": "https://images.ygoprodeck.com/images/cards/18789533.jpg"
+  },
+  {
+    "nome": "Dragão do Escombro",
+    "tipo": "Tuner Monster",
+    "subCardType": "Tuner Effect Monster",
+    "desc": "Quando este card for Invocado por Invocação-Normal: você pode escolher 1 monstro com 500 ou menos de ATK no seu Cemitério; Invoque o alvo por Invocação-Especial em Posição de Ataque, mas negue seus efeitos. Não pode ser usado como Matéria Sincro, exceto para a Invocação-Sincro de um monstro Dragão. A(s) outra(s) Matéria(s) Sincro não pode(m) ser de Nível 4.",
+    "race": "Dragon",
+    "atk": 1000,
+    "def": 2000,
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/14943837.jpg"
+  },
+  {
+    "nome": "Dual Assembwurm",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se este card estiver na sua mão ou no Cemitério: você pode banir 2 outros monstros Ciberso da sua mão e/ou com a face para cima no seu campo; Invoque este card por Invocação-Especial, mas seu ATK é diminuído pela metade. Você só pode usar este efeito de \"Dual Assembwurm\" uma vez por turno. Uma vez por turno: você pode banir 1 card da sua mão; bana 1 monstro no campo com ATK menor ou igual que o deste card.",
+    "race": "Cyberse",
+    "atk": 2800,
+    "def": 1000,
+    "level": 8,
+    "card_image": "https://images.ygoprodeck.com/images/cards/7445307.jpg"
+  },
+  {
+    "nome": "Encodificar Transmissor",
+    "tipo": "Link Monster",
+    "subCardType": "Link Effect Monster",
+    "desc": "2+ monstros Ciberso\nUma vez por turno, antes do cálculo de dano, se um monstro seu para o qual este card apontar batalhar um monstro do oponente com um ATK maior que o seu próprio: você pode fazer com que esse monstro seu não possa ser destruído por essa batalha e, além disso, você não sofre dano de batalha dessa batalha. Depois do cálculo de dano, faça com que este card ou 1 monstro para o qual este card apontar ganhe ATK igual ao ATK desse monstro do oponente na batalha, até o final deste turno.",
+    "race": "Cyberse",
+    "atk": 2300,
+    "def": null,
+    "arquetipo": "Code Talker",
+    "level": null,
+    "linkval": 3,
+    "linkmarkers": [
+      "Top",
+      "Bottom",
+      "Bottom-Right"
+    ],
+    "card_image": "https://images.ygoprodeck.com/images/cards/6622715.jpg"
+  },
+  {
+    "nome": "Escudo da Lua Espelhada",
+    "tipo": "Spell Card",
+    "subCardType": "Equip Spell",
+    "desc": "Se o monstro equipado batalhar um monstro do seu oponente, durante o cálculo de dano: o ATK/DEF do monstro equipado se tornam iguais ao ATK ou DEF (o que for maior) do monstro do oponente na batalha +100, apenas durante o cálculo de dano. Se este card com a face para cima for enviado do campo para o Cemitério: pague 500 PV; coloque este card no topo ou no fundo do seu Deck.",
+    "race": "Equip",
+    "card_image": "https://images.ygoprodeck.com/images/cards/19508728.jpg"
+  },
+  {
+    "nome": "Espelhador do Pântano",
+    "tipo": "Trap Card",
+    "subCardType": "Continuous Trap",
+    "desc": "Ative este card ao declarar 1 Tipo de Monstro e 1 Atributo; Invoque este card por Invocação-Especial como um Monstro Normal (Nível 4/ATK 1800/DEF 1000) com esse Tipo e Atributo. (Este card ainda é considerado um Card de Armadilha.)",
+    "race": "Continuous",
+    "card_image": "https://images.ygoprodeck.com/images/cards/50277973.jpg"
+  },
+  {
+    "nome": "Fantasmas do Passado",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Bana 2 monstros do seu Cemitério e, depois, escolha 1 monstro em Posição de Ataque no campo; mude o ATK dele para 0 até o final deste turno.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/51099515.jpg"
+  },
+  {
+    "nome": "Feiticeira Binária",
+    "tipo": "Link Monster",
+    "subCardType": "Link Effect Monster",
+    "desc": "2 monstros, exceto Fichas\nEste card ganha esses efeitos de acordo com o número de monstros co-linkados a este card.\n●1+: Quando um monstro co-linkado a este card batalhar um monstro do seu oponente e causar dano de batalha a ele: você pode ganhar esse tanto de PV.\n●2: Uma vez por turno (Efeito Rápido): você pode escolher 2 monstros com a face para cima que você controla; até o final deste turno, diminua pela metade o ATK de 1 monstro e, se isso acontecer, adicione esse ATK perdido ao outro monstro.",
+    "race": "Cyberse",
+    "atk": 1600,
+    "def": null,
+    "level": null,
+    "linkval": 2,
+    "linkmarkers": [
+      "Left",
+      "Right"
+    ],
+    "card_image": "https://images.ygoprodeck.com/images/cards/79016563.jpg"
+  },
+  {
+    "nome": "Força do Espelho Tempestuosa",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Quando um monstro do oponente declarar um ataque: devolva todos os monstros em Posição de Ataque do seu oponente para a mão.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/5650082.jpg"
+  },
+  {
+    "nome": "Garça Guindaste",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Quando este card for Invocado por Invocação-Normal: você pode escolher 1 monstro de Nível 3 no seu Cemitério; Invoque o alvo por Invocação-Especial, mas ele tem seus efeitos negados. Você só pode usar este efeito de \"Garça Guindaste\" uma vez por turno.",
+    "race": "Winged Beast",
+    "atk": 300,
+    "def": 900,
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/28637168.jpg"
+  },
+  {
+    "nome": "Gato Quântico",
+    "tipo": "Trap Card",
+    "subCardType": "Continuous Trap",
+    "desc": "Ative este card ao declarar 1 Tipo de Monstro e 1 Atributo; Invoque este card por Invocação-Especial como um Monstro Normal (Nível 4/ATK 0/DEF 2200) com esse Tipo e Atributo. (Este card ainda é considerado um Card de Armadilha.)",
+    "race": "Continuous",
+    "card_image": "https://images.ygoprodeck.com/images/cards/87772572.jpg"
+  },
+  {
+    "nome": "Kinka-byo",
+    "tipo": "Spirit Monster",
+    "subCardType": "Spirit Effect Monster",
+    "desc": "Não pode ser Invocado por Invocação-Especial. Quando este card for Invocado por Invocação-Normal ou virado com a face para cima: você pode escolher 1 monstro de Nível 1 no seu Cemitério; Invoque o alvo por Invocação-Especial, mas bana-o quando este card deixar o campo. Uma vez por turno, durante a Fase Final, se este card foi Invocado por Invocação-Normal ou virado com a face para cima neste turno: devolva-o para a mão.",
+    "race": "Beast",
+    "atk": 400,
+    "def": 200,
+    "level": 1,
+    "card_image": "https://images.ygoprodeck.com/images/cards/45452224.jpg"
+  },
+  {
+    "nome": "Klinseto",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Enquanto este card Invocado por Invocação-Normal/Baixado estiver com a face para cima no campo, todos os monstros Ciberso que você controla ganham 500 de ATK/DEF apenas durante o seu turno. Se este card no campo seria destruído em batalha ou por um efeito de card, em vez disso, você pode destruir 1 monstro Ciberso na sua mão ou com a face para cima no seu campo.",
+    "race": "Cyberse",
+    "atk": 1500,
+    "def": 1500,
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/45778242.jpg"
+  },
+  {
+    "nome": "Maga da Fé",
+    "tipo": "Flip Effect Monster",
+    "subCardType": "Flip Effect Monster",
+    "desc": "VIRE: Escolha 1 Magia no seu Cemitério; adicione o alvo à sua mão.",
+    "race": "Spellcaster",
+    "atk": 300,
+    "def": 400,
+    "level": 1,
+    "card_image": "https://images.ygoprodeck.com/images/cards/31560081.jpg"
+  },
+  {
+    "nome": "Mago Ciberso",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Uma vez por turno: você pode escolher 1 monstro em Posição de Ataque do oponente; coloque-o em Posição de Defesa e, se isso acontecer, pelo resto deste turno, seus monstros não podem atacar, exceto atacar esse monstro, e se um monstro Ciberso seu atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.",
+    "race": "Cyberse",
+    "atk": 1800,
+    "def": 800,
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/36033786.jpg"
+  },
+  {
+    "nome": "Mago Tri-Portal",
+    "tipo": "Link Monster",
+    "subCardType": "Link Effect Monster",
+    "desc": "2+ monstros, exceto Fichas\nEste card ganha esses efeitos de acordo com o número de monstros co-linkados a este card.\n●1+: Se um monstro co-linkado a este card batalhar um monstro do seu oponente, qualquer dano de batalha que ele causar ao seu oponente é dobrado.\n●2+: Uma vez por turno: você pode escolher 1 card no campo; bana-o.\n●3: Uma vez por turno, quando um card ou efeito for ativado (Efeito Rápido): você pode negar a ativação e, se isso acontecer, bana esse card.",
+    "race": "Cyberse",
+    "atk": 2200,
+    "def": null,
+    "level": null,
+    "linkval": 3,
+    "linkmarkers": [
+      "Top",
+      "Left",
+      "Right"
+    ],
+    "card_image": "https://images.ygoprodeck.com/images/cards/32617464.jpg"
+  },
+  {
+    "nome": "Matemático",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Quando este card for Invocado por Invocação-Normal: você pode enviar 1 monstro de Nível 4 ou menos do seu Deck para o Cemitério. Quando este card for destruído em batalha e enviado para o Cemitério: você pode comprar 1 card.",
+    "race": "Spellcaster",
+    "atk": 1500,
+    "def": 500,
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/41386308.jpg"
+  },
+  {
+    "nome": "Monge Invocador",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Enquanto este card estiver com a face para cima no campo, ele não pode ser oferecido como Tributo. Se este card for Invocado por Invocação-Normal ou Virar: coloque este card em Posição de Defesa. Uma vez por turno: você pode descartar 1 Magia; Invoque por Invocação-Especial 1 monstro de Nível 4 do seu Deck, mas esse monstro não pode atacar neste turno.",
+    "race": "Spellcaster",
+    "atk": 800,
+    "def": 1600,
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/423585.jpg"
+  },
+  {
+    "nome": "Onde Estarás Tu?",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Se você controlar um monstro de Nível 1: adicione 1 monstro de Nível 1 do seu Deck à sua mão. Durante a Fase Final deste turno, sofra 2000 de dano se você não Invocou por Invocação-Normal o monstro adicionado ou um card com o mesmo nome depois de ter ativado este card.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/51405049.jpg"
+  },
+  {
+    "nome": "Recodificar Vivo",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Escolha 1 Monstro Link Ciberso Link-3 que você controla ou no seu Cemitério; bana-o e, se isso acontecer, Invoque por Invocação-Especial 1 monstro \"Codificar Transmissor\" do seu Deck Adicional. Se você não controlar nenhum monstro na Zona de Monstros Adicional: você pode banir este card do seu Cemitério e, depois, escolher 1 de seus monstros \"Codificar Transmissor\" banidos; Invoque-o por Invocação-Especial.",
+    "race": "Normal",
+    "arquetipo": "Code Talker",
+    "card_image": "https://images.ygoprodeck.com/images/cards/70238111.jpg"
+  },
+  {
+    "nome": "Renascimento Embaralhado",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Se você não controlar nenhum monstro: escolha 1 monstro no seu Cemitério; Invoque-o por Invocação-Especial, mas ele tem seus efeitos negados e, além disso, bana-o durante a Fase Final. Você pode banir este card do seu Cemitério e, depois, escolher 1 card que você controla; embaralhe-o no Deck e, depois, compre 1 card e, além disso, durante a Fase Final deste turno, bana 1 card da sua mão. Você só pode usar este efeito de \"Renascimento Embaralhado\" uma vez por turno.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/14816688.jpg"
+  },
+  {
+    "nome": "Renascimento Poderoso",
+    "tipo": "Trap Card",
+    "subCardType": "Continuous Trap",
+    "desc": "Ative este card ao escolher 1 monstro de Nível 4 ou menos no seu Cemitério; Invoque o alvo por Invocação-Especial. Aumente o Nível dele em 1 e o ATK e DEF em 100. Quando esse monstro for destruído, destrua este card.",
+    "race": "Continuous",
+    "card_image": "https://images.ygoprodeck.com/images/cards/84298614.jpg"
+  },
+  {
+    "nome": "Renovador de Pilhas",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se este card for usado como matéria para uma Invocação-Link: você pode escolher 1 outro monstro Ciberso de Nível 4 ou menos no seu Cemitério, que foi usado como matéria para essa Invocação-Link; Invoque-o por Invocação-Especial em Posição de Defesa. Você só pode usar este efeito de \"Renovador de Pilhas\" uma vez por Duelo.",
+    "race": "Cyberse",
+    "atk": 100,
+    "def": 600,
+    "level": 2,
+    "card_image": "https://images.ygoprodeck.com/images/cards/9523599.jpg"
+  },
+  {
+    "nome": "Retorno Precoce",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Bana 1 card da sua mão e, depois, escolha 1 dos seus monstros banidos; Invoque-o por Invocação-Especial com a face para baixo em Posição de Defesa.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/95083785.jpg"
+  },
+  {
+    "nome": "ROM Nuvlar",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Quando este card for Invocado por Invocação-Normal: você pode escolher 1 monstro Ciberso no seu Cemitério, exceto \"ROM Nuvlar\"; adicione-o à sua mão. Se este card for destruído em batalha ou por um efeito de card: você pode Invocar por Invocação-Especial 1 monstro Ciberso de Nível 4 ou menos do seu Deck, exceto \"ROM Nuvlar\".",
+    "race": "Cyberse",
+    "atk": 1800,
+    "def": 0,
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/44956694.jpg"
+  },
+  {
+    "nome": "Sarcófago Dourado",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Bana, com a face para cima, 1 card do seu Deck. Durante sua 2ª Fase de Apoio depois da ativação deste card, adicione esse card à mão.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/75500286.jpg"
+  },
+  {
+    "nome": "Secretária Cópia",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se você controlar um monstro Ciberso, você pode Invocar este card por Invocação-Especial (da sua mão). Você só pode Invocar \"Secretária Cópia\" por Invocação-Especial uma vez por turno desta forma.",
+    "race": "Cyberse",
+    "atk": 1200,
+    "def": 800,
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/63528891.jpg"
+  },
+  {
+    "nome": "Senhor Balanceamento",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Uma vez por turno: você pode pagar 1000 PV; durante sua Fase Principal deste turno, você pode Invocar por Invocação-Normal 1 monstro Ciberso, em adição à sua Invocação-Normal/Baixar padrão. (Você só pode se aproveitar deste efeito uma vez por turno.) Se este card for banido: você pode Invocar por Invocação-Especial 1 monstro de Nível 4 ou menos da sua mão. Você só pode usar este efeito de \"Senhor Balanceamento\" uma vez por turno.",
+    "race": "Cyberse",
+    "atk": 1700,
+    "def": 1200,
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/8567955.jpg"
+  },
+  {
+    "nome": "Soldado Card",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Uma vez por turno: você pode selecionar um número de 1 a 3 e, depois, enviar esse número de cards do topo do seu Deck para o Cemitério; até o final deste turno, este card ganha 500 de ATK para cada card enviado para o Cemitério desta forma. Se este card que você controla for destruído e enviado para o seu Cemitério: compre 1 card.",
+    "race": "Machine",
+    "atk": 400,
+    "def": 400,
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/85087012.jpg"
+  },
+  {
+    "nome": "Tragoedia",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Quando você sofrer dano de batalha: você pode Invocar este card por Invocação-Especial da sua mão. Ganha 600 de ATK/DEF para cada card na sua mão. Uma vez por turno: você pode enviar 1 monstro da sua mão para o Cemitério e, depois, escolha 1 monstro com a face para cima que seu oponente controla com o mesmo Nível que o monstro enviado tinha na mão; tome o controle desse monstro com a face para cima. Uma vez por turno: você pode escolher 1 monstro no seu Cemitério; até o final deste turno, o Nível deste card se torna o mesmo que o do alvo.",
+    "race": "Fiend",
+    "atk": -1,
+    "def": -1,
+    "level": 10,
+    "card_image": "https://images.ygoprodeck.com/images/cards/98777036.jpg"
+  }
+]

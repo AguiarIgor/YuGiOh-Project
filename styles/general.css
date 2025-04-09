@@ -1,0 +1,30 @@
+* {
+    font-family: "Exo", sans-serif !important;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.hand, .linhaMao, .playAction, .checkDeck,
+body, .campo-duelo, .campo-jogador, .cardEspaco,
+.MonstroAdicional1, .MonstroAdicional2,
+.currentPhase, .phases, .phase{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#changePhase, #deckEscolhido {
+    cursor: pointer;
+    pointer-events: visible;
+    color: #ffffff;
+    text-align: center;
+    transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    user-select: none;
+    -webkit-user-select: none;
+}
+#changePhase:disabled, #deckEscolhido:disabled {
+    cursor: not-allowed;
+    background: rgba(0, 0, 0, .08);
+    color: rgba(0, 0, 0, .3);
+}

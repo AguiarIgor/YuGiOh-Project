@@ -1,0 +1,496 @@
+[
+  {
+    "nome": "Barreira de Poder",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Durante o cálculo de dano, quando você sofreria dano de batalha de um monstro atacante do oponente: em vez disso, envie 1 card do topo do seu Deck para o Cemitério para cada 500 de dano (arredondado para cima) que você sofreria.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/76403456.jpg"
+  },
+  {
+    "nome": "Bugiganga Orochi, o Cortador Celeste Serpentron",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se este card estiver na sua mão ou no Cemitério (Efeito Rápido): você pode banir, com a face para baixo, 8 cards do topo do seu Deck; Invoque este card por Invocação-Especial. Você pode banir, com a face para baixo, 3 cards do seu Deck Adicional e, depois, escolha 1 monstro com a face para cima no campo; destrua-o. Você só pode usar 1 efeito de \"Bugiganga Orochi, o Cortador Celeste Serpentron\" por turno e apenas uma vez por turno.",
+    "race": "Machine",
+    "atk": 2450,
+    "def": 2450,
+    "level": 8,
+    "card_image": "https://images.ygoprodeck.com/images/cards/71197066.jpg"
+  },
+  {
+    "nome": "Canhão Cibersombrio",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se este card for enviado para o Cemitério enquanto estiver equipado a um monstro: você pode comprar 1 card. Você só pode usar cada um dos seguintes efeitos de \"Canhão Cibersombrio\" uma vez por turno.\n●Você pode descartar este card; adicione 1 monstro Máquina \"Cibersombrio(a)\" do seu Deck à sua mão.\n●Durante o cálculo de dano, se um monstro equipado com este card batalhar: você pode enviar 1 monstro do seu Deck para o Cemitério.",
+    "race": "Dragon",
+    "atk": 1600,
+    "def": 800,
+    "arquetipo": "Cyberdark",
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/45078193.jpg"
+  },
+  {
+    "nome": "Chamado dos Assombrados",
+    "tipo": "Trap Card",
+    "subCardType": "Continuous Trap",
+    "desc": "Ative este card ao escolher 1 monstro no seu Cemitério; Invoque o alvo por Invocação-Especial em Posição de Ataque. Quando este card deixar o campo, destrua esse monstro. Quando esse monstro for destruído, destrua este card.",
+    "race": "Continuous",
+    "card_image": "https://images.ygoprodeck.com/images/cards/97077563.jpg"
+  },
+  {
+    "nome": "Chifre Cibersombrio",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se este card for Invocado por Invocação-Normal: escolha 1 monstro Dragão de Nível 3 ou menos no seu Cemitério; equipe esse monstro Dragão a este card. Ganha ATK igual ao ATK original do monstro equipado a ele por este efeito. Se este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante. Se este card seria destruído em batalha, em vez disso, destrua esse monstro equipado a ele.",
+    "race": "Machine",
+    "atk": 800,
+    "def": 800,
+    "arquetipo": "Cyberdark",
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/41230939.jpg"
+  },
+  {
+    "nome": "Cibereterno",
+    "tipo": "Spell Card",
+    "subCardType": "Quick-Play Spell",
+    "desc": "Escolha 1 Monstro de Fusão Máquina \"Ciber\" no seu Cemitério; devolva-o para o Deck Adicional ou Invoque-o por Invocação-Especial, ignorando suas condições de Invocação. Se um ou mais Monstros de Fusão Máquina \"Ciber\" que você controla seriam destruídos em batalha ou por um efeito de card, em vez disso, você pode banir este card do seu Cemitério. Você só pode usar cada efeito de \"Cibereterno\" uma vez por turno.",
+    "race": "Quick-Play",
+    "arquetipo": "Cyber",
+    "card_image": "https://images.ygoprodeck.com/images/cards/32768230.jpg"
+  },
+  {
+    "nome": "Cibern de Acoplamento",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Você pode escolher 1 monstro Dragão ou Máquina \"Ciber\" que você controla; equipe este card da sua mão ou do campo a ele. Enquanto este card for um Card de Equipamento, o monstro equipado ganha 600 de ATK. Se este card for enviado para o Cemitério enquanto estiver equipado a um monstro: você pode escolher 1 outro monstro Dragão ou Máquina \"Ciber\" no seu Cemitério; Invoque-o por Invocação-Especial. Você só pode usar este efeito de \"Cibern de Acoplamento\" uma vez por turno.",
+    "race": "Dragon",
+    "atk": 1600,
+    "def": 800,
+    "arquetipo": "Cyber",
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/79875526.jpg"
+  },
+  {
+    "nome": "Cibervale",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Você pode ativar 1 desses efeitos.\n●Quando este card for escolhido como alvo de um ataque: você pode banir este card; compre 1 card e, depois, encerre a Fase de Batalha.\n●Você pode escolher 1 monstro com a face para cima que você controla e este card; bana os dois alvos e, depois, compre 2 cards.\n●Você pode escolher 1 card no seu Cemitério; bana tanto este card quanto 1 card da sua mão e, depois, coloque o alvo no topo do Deck.",
+    "race": "Machine",
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "card_image": "https://images.ygoprodeck.com/images/cards/3657444.jpg"
+  },
+  {
+    "nome": "Dogra do Vendaval",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Você pode pagar 3000 PV; envie 1 monstro do seu Deck Adicional para o Cemitério.",
+    "race": "Insect",
+    "atk": 650,
+    "def": 600,
+    "level": 2,
+    "card_image": "https://images.ygoprodeck.com/images/cards/16229315.jpg"
+  },
+  {
+    "nome": "Dragão Cibernético",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se somente seu oponente controlar um monstro, você pode Invocar este card por Invocação-Especial (da sua mão).",
+    "race": "Machine",
+    "atk": 2100,
+    "def": 1600,
+    "arquetipo": "Cyber Dragon",
+    "level": 5,
+    "card_image": "https://images.ygoprodeck.com/images/cards/70095154.jpg"
+  },
+  {
+    "nome": "Dragão Cibernético Drei",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "O nome deste card se torna \"Dragão Cibernético\" enquanto estiver no campo ou no Cemitério. Quando este card for Invocado por Invocação-Normal: você pode fazer com que todos os \"Dragão Cibernético\" que você controla atualmente se tornem de Nível 5. Você não pode Invocar monstros por Invocação-Especial no turno em que ativar este efeito, exceto monstros Máquina. Se este card for banido: você pode escolher 1 \"Dragão Cibernético\" que você controla; ele não pode ser destruído em batalha ou por efeitos de card neste turno.",
+    "race": "Machine",
+    "atk": 1800,
+    "def": 800,
+    "arquetipo": "Cyber Dragon",
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/59281922.jpg"
+  },
+  {
+    "nome": "Dragão Cibernético Herz",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "O nome deste card se torna \"Dragão Cibernético\" enquanto estiver no campo ou no Cemitério. Você só pode usar 1 dos seguintes efeitos de \"Dragão Cibernético Herz\" por turno e apenas uma vez por turno.\n●Se este card for Invocado por Invocação-Especial: você pode fazer com que o Nível deste card se torne 5 até o final deste turno e, além disso, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros Máquina.\n●Se este card for enviado para o Cemitério: você pode adicionar 1 outro \"Dragão Cibernético\" do seu Deck ou Cemitério à sua mão.",
+    "race": "Machine",
+    "atk": 100,
+    "def": 100,
+    "arquetipo": "Cyber Dragon",
+    "level": 1,
+    "card_image": "https://images.ygoprodeck.com/images/cards/56364287.jpg"
+  },
+  {
+    "nome": "Dragão Cibernético Nachster",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "O nome deste card se torna \"Dragão Cibernético\" enquanto estiver no campo ou no Cemitério. Você pode descartar 1 outro monstro; Invoque este card por Invocação-Especial da sua mão. Se este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 monstro Máquina com 2100 de ATK ou DEF no seu Cemitério; Invoque-o por Invocação-Especial e, além disso, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros Máquina. Você só pode usar cada efeito de \"Dragão Cibernético Nachster\" uma vez por turno.",
+    "race": "Machine",
+    "atk": 200,
+    "def": 200,
+    "arquetipo": "Cyber Dragon",
+    "level": 1,
+    "card_image": "https://images.ygoprodeck.com/images/cards/1142880.jpg"
+  },
+  {
+    "nome": "Dragão Cibernético Vier",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "O nome deste card se torna \"Dragão Cibernético\" enquanto estiver no campo ou no Cemitério. Se você Invocar \"Dragão Cibernético\" por Invocação-Normal ou Especial, exceto durante a Etapa de Dano: você pode Invocar este card por Invocação-Especial da sua mão em Posição de Defesa. Você só pode usar este efeito de \"Dragão Cibernético Vier\" uma vez por turno. Cada \"Dragão Cibernético\" que você controla ganha 500 de ATK/DEF.",
+    "race": "Machine",
+    "atk": 1100,
+    "def": 1600,
+    "arquetipo": "Cyber Dragon",
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/29975188.jpg"
+  },
+  {
+    "nome": "Dragão Cibernético Zwei",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "O nome deste card se torna \"Dragão Cibernético\" enquanto estiver no Cemitério. Uma vez por turno: você pode revelar 1 Magia na sua mão; o nome deste card se torna \"Dragão Cibernético\" até a Fase Final. Se este card atacar um monstro do oponente, ele ganha 300 de ATK apenas durante a Etapa de Dano.",
+    "race": "Machine",
+    "atk": 1500,
+    "def": 1000,
+    "arquetipo": "Cyber Dragon",
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/5373478.jpg"
+  },
+  {
+    "nome": "Dragão Cibersombrio",
+    "tipo": "Fusion Monster",
+    "subCardType": "Fusion Effect Monster",
+    "desc": "\"Chifre Cibersombrio\" + \"Lâmina Cibersombria\" + \"Enquilha Cibersombria\"\nDeve ser Invocado por Invocação-Fusão. Se este card for Invocado por Invocação-Especial: escolha 1 monstro Dragão no seu Cemitério; equipe o alvo a este card. Ganha ATK igual ao ATK original do monstro equipado a ele por este efeito. Ganha 100 de ATK para cada monstro no seu Cemitério. Se este card seria destruído em batalha, em vez disso, destrua esse monstro equipado a ele.",
+    "race": "Machine",
+    "atk": 1000,
+    "def": 1000,
+    "arquetipo": "Cyberdark",
+    "level": 8,
+    "card_image": "https://images.ygoprodeck.com/images/cards/40418351.jpg"
+  },
+  {
+    "nome": "Dragão Cibersombrioso",
+    "tipo": "Fusion Monster",
+    "subCardType": "Fusion Effect Monster",
+    "desc": "5 Monstros de Efeito \"Cibersombrio(a)\"\nPrimeiro deve ser Invocado por Invocação-Fusão. Se este card for Invocado por Invocação-Especial: você pode equipar 1 monstro Dragão ou Máquina do seu Cemitério a este card. Ganha ATK igual ao ATK original do monstro equipado a ele por este efeito. Quando seu oponente ativar um card ou efeito (Efeito Rápido): você pode enviar 1 Card de Equipamento que você controla para o Cemitério; negue a ativação e, se isso acontecer, destrua esse card.",
+    "race": "Machine",
+    "atk": 2000,
+    "def": 2000,
+    "arquetipo": "Cyberdark",
+    "level": 10,
+    "card_image": "https://images.ygoprodeck.com/images/cards/18967507.jpg"
+  },
+  {
+    "nome": "Dragão Final Cibernético",
+    "tipo": "Fusion Monster",
+    "subCardType": "Fusion Effect Monster",
+    "desc": "\"Dragão Cibernético\" + \"Dragão Cibernético\" + \"Dragão Cibernético\"\nA Invocação-Fusão deste card só pode ser feita com as Matérias de Fusão acima. Se este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante.",
+    "race": "Machine",
+    "atk": 4000,
+    "def": 2800,
+    "level": 10,
+    "card_image": "https://images.ygoprodeck.com/images/cards/1546123.jpg"
+  },
+  {
+    "nome": "Dragão Final Cibersombrio",
+    "tipo": "Fusion Monster",
+    "subCardType": "Fusion Effect Monster",
+    "desc": "\"Dragão Cibersombrio\" + \"Dragão Final Cibernético\"\nDeve ser Invocado por Invocação-Fusão, ou Invocado por Invocação-Especial ao oferecer como Tributo 1 Monstro de Fusão \"Cibersombrio(a)\" de Nível 10 ou menos equipado com \"Dragão Final Cibernético\". Não é afetado pelos efeitos ativados do seu oponente. Uma vez por turno: você pode equipar a este card 1 monstro de qualquer Cemitério. Este card pode atacar um número de vezes a cada Fase de Batalha até o número de Cards de Equipamento equipados a ele.",
+    "race": "Machine",
+    "atk": 5000,
+    "def": 3800,
+    "arquetipo": "Cyberdark",
+    "level": 12,
+    "card_image": "https://images.ygoprodeck.com/images/cards/37542782.jpg"
+  },
+  {
+    "nome": "Duplicação de Máquinas",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Escolha 1 monstro Máquina que você controla com 500 ou menos de ATK; Invoque por Invocação-Especial até 2 monstros do seu Deck com o mesmo nome que esse monstro com a face para cima.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/63995093.jpg"
+  },
+  {
+    "nome": "Emergência Cibernética",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Adicione 1 monstro Máquina de LUZ que não possa ser Invocado por Invocação-Normal/Baixado, ou 1 monstro \"Dragão Cibernético\", do seu Deck à sua mão. Se a ativação deste card em posse do seu dono foi negada por um efeito de card do seu oponente e enviado para o seu Cemitério: você pode descartar 1 card; adicione este card à sua mão. Você só pode ativar 1 \"Emergência Cibernética\" por turno.",
+    "race": "Normal",
+    "arquetipo": "Cyber Dragon",
+    "card_image": "https://images.ygoprodeck.com/images/cards/60600126.jpg"
+  },
+  {
+    "nome": "Enquilha Cibersombria",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se este card for Invocado por Invocação-Normal: escolha 1 monstro Dragão de Nível 3 ou menos no seu Cemitério; equipe esse monstro Dragão a este card. Ganha ATK igual ao ATK original do monstro equipado a ele por este efeito. Se este card destruir um monstro do oponente em batalha: cause 300 de dano ao seu oponente. Se este card seria destruído em batalha, em vez disso, destrua esse monstro equipado a ele.",
+    "race": "Machine",
+    "atk": 800,
+    "def": 800,
+    "arquetipo": "Cyberdark",
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/3019642.jpg"
+  },
+  {
+    "nome": "Farol Cibernético",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Você pode Invocar este card por Invocação-Especial (da sua mão) ao oferecer como Tributo 1 monstro Máquina. Uma vez por turno, durante sua Fase Principal: você pode Invocar por Invocação-Fusão 1 Monstro de Fusão Máquina do seu Deck Adicional, usando monstros da sua mão e/ou do campo como matéria. Quando um Monstro de Fusão que você controla for destruído em batalha: você pode banir este card do seu Cemitério; adicione 1 \"Vínculo de Poder\" do seu Deck à sua mão. Você só pode usar este efeito de \"Farol Cibernético\" uma vez por turno.",
+    "race": "Machine",
+    "atk": 0,
+    "def": 2100,
+    "arquetipo": "Cyber Dragon",
+    "level": 1,
+    "card_image": "https://images.ygoprodeck.com/images/cards/29719112.jpg"
+  },
+  {
+    "nome": "Fênix Cibernética",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Enquanto este card estiver em Posição de Ataque, negue quaisquer efeitos de Magia/Armadilha que escolham como alvo 1 monstro Máquina que você controla (e nenhum outro card). Quando este card for destruído em batalha e enviado para o Cemitério: você pode comprar 1 card.",
+    "race": "Machine",
+    "atk": 1200,
+    "def": 1600,
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/3370104.jpg"
+  },
+  {
+    "nome": "Fusão Cibercarga",
+    "tipo": "Spell Card",
+    "subCardType": "Quick-Play Spell",
+    "desc": "Invoque por Invocação-Fusão 1 Monstro de Fusão do seu Deck Adicional que liste um monstro \"Dragão Cibernético\" como matéria, ao embaralhar no Deck as Matérias de Fusão listadas nele, dentre seus cards no campo e/ou seus cards banidos com a face para cima, mas os monstros que você controla não podem atacar pelo resto deste turno, exceto esse monstro Invocado por Invocação-Fusão. Você só pode ativar 1 \"Fusão Cibercarga\" por turno.",
+    "race": "Quick-Play",
+    "arquetipo": "Cyber Dragon",
+    "card_image": "https://images.ygoprodeck.com/images/cards/55704856.jpg"
+  },
+  {
+    "nome": "Fusão Futura",
+    "tipo": "Spell Card",
+    "subCardType": "Continuous Spell",
+    "desc": "Durante sua 1ª Fase de Apoio depois da ativação deste card: mostre 1 Monstro de Fusão no seu Deck Adicional e envie as Matérias de Fusão listadas nele do seu Deck Principal para o Cemitério. Durante sua 2ª Fase de Apoio depois da ativação deste card: Invoque por Invocação-Fusão 1 Monstro de Fusão do seu Deck Adicional com o mesmo nome que o monstro que você mostrou e escolha-o como alvo deste card. Quando este card deixar o campo, destrua o alvo. Quando o alvo for destruído, destrua este card.",
+    "race": "Continuous",
+    "arquetipo": "Magician",
+    "card_image": "https://images.ygoprodeck.com/images/cards/77565204.jpg"
+  },
+  {
+    "nome": "Fusão Sobrecarregada",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Invoque por Invocação-Fusão 1 Monstro de Fusão Máquina de TREVAS do seu Deck Adicional, ao banir as Matérias de Fusão listadas nele do seu campo ou do Cemitério.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/3659803.jpg"
+  },
+  {
+    "nome": "Garra Cibersombria",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se este card for enviado para o Cemitério enquanto estiver equipado a um monstro: você pode escolher 1 monstro \"Cibersombrio(a)\" no seu Cemitério; adicione-o à sua mão. Você só pode usar cada um dos seguintes efeitos de \"Garra Cibersombria\" uma vez por turno.\n●Você pode descartar este card; adicione 1 Magia/Armadilha \"Cibersombrio(a)\" do seu Deck à sua mão.\n●Durante o cálculo de dano, se um monstro equipado com este card batalhar: você pode enviar 1 monstro do seu Deck Adicional para o Cemitério.",
+    "race": "Dragon",
+    "atk": 1600,
+    "def": 800,
+    "arquetipo": "Cyberdark",
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/82562802.jpg"
+  },
+  {
+    "nome": "Horizonte Cibernético",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "(Este card deve ser sempre considerado como um card \"Cibersombrio(a)\".)\nEnvie para o Cemitério 2 monstros Dragão e/ou Máquina \"Ciber\" com Atributos diferentes, 1 de cada da sua mão e do Deck; adicione 1 monstro Dragão ou Máquina \"Ciber\" do seu Deck à sua mão e, se isso acontecer, envie para o Cemitério 1 Monstro de Fusão Máquina \"Ciber\" do seu Deck Adicional. Você só pode ativar 1 \"Horizonte Cibernético\" por turno. Você não pode Invocar monstros por Invocação-Especial do Deck Adicional no turno em que ativar este card, exceto monstros Máquina.",
+    "race": "Normal",
+    "arquetipo": "Cyberdark",
+    "card_image": "https://images.ygoprodeck.com/images/cards/63031396.jpg"
+  },
+  {
+    "nome": "Identificar Fusão",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Escolha 1 monstro que você controla; revele 1 Monstro de Fusão no seu Deck Adicional e, se isso acontecer, o nome do monstro alvo pode ser considerado como o nome do Monstro de Fusão revelado, se ele for usado para uma Invocação-Fusão neste turno.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/59432181.jpg"
+  },
+  {
+    "nome": "Impacto Cibersombrio!",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Invoque por Invocação-Fusão 1 \"Dragão Cibersombrio\" do seu Deck Adicional, ao embaralhar no Deck, como Matéria de Fusão, 1 de cada de \"Chifre Cibersombrio\", \"Lâmina Cibersombria\" e \"Enquilha Cibersombria\" da sua mão, do campo e/ou do Cemitério.",
+    "race": "Normal",
+    "arquetipo": "Cyberdark",
+    "card_image": "https://images.ygoprodeck.com/images/cards/80033124.jpg"
+  },
+  {
+    "nome": "Impermanência Infinita",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Escolha 1 monstro com a face para cima que seu oponente controla; negue seus efeitos (até o final deste turno) e, depois, se este card estava Baixado antes da ativação e estiver no campo na resolução, pelo resto deste turno, todos os outros efeitos de Magia/Armadilha nesta coluna são negados. Se você não controlar nenhum card, você pode ativar este card da sua mão.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/10045474.jpg"
+  },
+  {
+    "nome": "Implantar Fusão",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Revele 1 Monstro de Fusão no seu Deck Adicional e Invoque por Invocação-Especial, da sua mão ou do Deck, 1 das Matérias de Fusão cujo nome esteja especificamente listado nesse card e, além disso, você não pode Invocar monstros do Deck Adicional por Invocação-Especial, exceto Monstros de Fusão, no turno em que ativar este card. Você só pode ativar 1 \"Implantar Fusão\" por turno.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/6498706.jpg"
+  },
+  {
+    "nome": "Inferno Cibersombrio",
+    "tipo": "Spell Card",
+    "subCardType": "Field Spell",
+    "desc": "Monstros de Efeito \"Cibersombrio(a)\" que você controla que estiverem equipados com um Card de Equipamento não podem ser destruídos por efeitos de card do seu oponente e, além disso, seu oponente não pode escolhê-los como alvo de efeitos de card. Você pode escolher 1 monstro \"Cibersombrio(a)\" que você controla; devolva-o para a mão e, depois, imediatamente depois que este efeito resolver, você pode Invocar por Invocação-Normal 1 monstro \"Cibersombrio(a)\". Você só pode usar este efeito de \"Inferno Cibersombrio\" uma vez por turno. Se este card sob o controle do seu dono for destruído por um efeito de card do oponente: você pode adicionar 1 Magia \"Polimerização\" ou Magia \"Fusão\" do seu Deck à sua mão.",
+    "race": "Field",
+    "arquetipo": "Cyberdark",
+    "card_image": "https://images.ygoprodeck.com/images/cards/44352516.jpg"
+  },
+  {
+    "nome": "Invasão Cibersombria",
+    "tipo": "Trap Card",
+    "subCardType": "Continuous Trap",
+    "desc": "Uma vez por turno: você pode ativar 1 desses efeitos;\n●Escolha 1 Monstro de Efeito \"Cibersombrio(a)\" que você controla; equipe 1 monstro Dragão ou Máquina de qualquer Cemitério a ele como uma Magia de Equipamento que concede a ele 1000 de ATK.\n●Envie para o Cemitério 1 Card de Equipamento que você controla equipado a um monstro Máquina; destrua 1 card que seu oponente controla.\nVocê só pode usar cada efeito de \"Invasão Cibersombria\" uma vez por turno.",
+    "race": "Continuous",
+    "arquetipo": "Cyberdark",
+    "card_image": "https://images.ygoprodeck.com/images/cards/1157683.jpg"
+  },
+  {
+    "nome": "Jizukiru, o Kaiju Destruidor de Estrelas",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Você pode Invocar este card por Invocação-Especial (da sua mão) no campo do seu oponente em Posição de Ataque ao oferecer como Tributo 1 monstro que ele controla. Se seu oponente controlar um monstro \"Kaiju\", você pode Invocar este card por Invocação-Especial (da sua mão) em Posição de Ataque. Você só pode controlar 1 monstro \"Kaiju\". Quando um card ou efeito for ativado que escolha como alvo 1 card (e nenhum outro card) (Efeito Rápido): você pode remover 3 Marcadores Kaiju de qualquer parte do campo; negue o efeito e, se isso acontecer, você pode destruir 1 card no campo.",
+    "race": "Machine",
+    "atk": 3300,
+    "def": 2600,
+    "arquetipo": "Kaiju",
+    "level": 10,
+    "card_image": "https://images.ygoprodeck.com/images/cards/63941210.jpg"
+  },
+  {
+    "nome": "Lâmina Cibersombria",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Se este card for Invocado por Invocação-Normal: escolha 1 monstro Dragão de Nível 3 ou menos no seu Cemitério; equipe esse monstro Dragão a este card. Ganha ATK igual ao ATK original do monstro equipado a ele por este efeito. Este card pode atacar diretamente. Se ele o fizer usando este efeito, seu ATK é diminuído pela metade apenas durante o cálculo de dano. Se este card seria destruído em batalha, em vez disso, destrua esse monstro equipado a ele.",
+    "race": "Machine",
+    "atk": 800,
+    "def": 800,
+    "arquetipo": "Cyberdark",
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/77625948.jpg"
+  },
+  {
+    "nome": "Leng Ling",
+    "tipo": "Union Effect Monster",
+    "subCardType": "Union Effect Monster",
+    "desc": "Uma vez por turno, você pode: escolher 1 monstro com a face para cima que você controla; equipe este card ao alvo, OU: desequipe este card e Invoque-o por Invocação-Especial. O ATK original de um monstro equipado com este card se torna 1000, ele pode realizar um segundo ataque durante cada Fase de Batalha e, além disso, se o monstro equipado seria destruído em batalha ou por um efeito de card, em vez disso, destrua este card.",
+    "race": "Dragon",
+    "atk": 1500,
+    "def": 0,
+    "level": 3,
+    "card_image": "https://images.ygoprodeck.com/images/cards/70298454.jpg"
+  },
+  {
+    "nome": "Núcleo de Dragão Cibernético",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "O nome deste card se torna \"Dragão Cibernético\" enquanto estiver no campo ou no Cemitério. Se este card for Invocado por Invocação-Normal: adicione 1 Magia/Armadilha \"Ciber\" do seu Deck à sua mão. Se somente seu oponente controlar um monstro: você pode banir este card do seu Cemitério; Invoque por Invocação-Especial 1 monstro \"Dragão Cibernético\" do seu Deck. Você só pode usar 1 efeito de \"Núcleo de Dragão Cibernético\" por turno e apenas uma vez por turno.",
+    "race": "Machine",
+    "atk": 400,
+    "def": 1500,
+    "arquetipo": "Cyber Dragon",
+    "level": 2,
+    "card_image": "https://images.ygoprodeck.com/images/cards/23893227.jpg"
+  },
+  {
+    "nome": "Paleozoico Canadia",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Escolha 1 monstro com a face para cima que seu oponente controla; coloque-o com a face para baixo em Posição de Defesa. Uma vez por Corrente, quando um Card de Armadilha for ativado enquanto este card estiver no seu Cemitério: você pode Invocar este card por Invocação-Especial como um Monstro Normal (Aqua/ÁGUA/Nível 2/ATK 1200/DEF 0). (Este card NÃO é considerado como uma Armadilha.) Se Invocado desta forma, este card não é afetado por efeitos de monstro e, além disso, bana-o quando ele deixar o campo.",
+    "race": "Normal",
+    "arquetipo": "Paleozoic",
+    "card_image": "https://images.ygoprodeck.com/images/cards/98414735.jpg"
+  },
+  {
+    "nome": "Quimera Cibersombria",
+    "tipo": "Effect Monster",
+    "subCardType": "Effect Monster",
+    "desc": "Você pode descartar 1 Magia/Armadilha; adicione 1 \"Vínculo de Poder\" do seu Deck à sua mão, você só pode usar monstros Dragão ou Máquina \"Ciber\" como Matéria de Fusão neste turno e, além disso, uma vez quando você Invocar por Invocação-Fusão neste turno, você também pode banir um ou mais monstros do seu Cemitério como matéria. Se este card for enviado para o Cemitério: você pode enviar 1 monstro \"Cibersombrio(a)\" do seu Deck para o Cemitério, com um nome diferente que o dos cards no seu Cemitério. Você só pode usar cada efeito de \"Quimera Cibersombria\" uma vez por turno.",
+    "race": "Machine",
+    "atk": 800,
+    "def": 2100,
+    "arquetipo": "Cyberdark",
+    "level": 4,
+    "card_image": "https://images.ygoprodeck.com/images/cards/5370235.jpg"
+  },
+  {
+    "nome": "Reino Cibersombrio",
+    "tipo": "Spell Card",
+    "subCardType": "Continuous Spell",
+    "desc": "Quando este card for ativado: você pode adicionar 1 monstro \"Cibersombrio(a)\" do seu Deck à sua mão, com um nome diferente que o dos cards no seu Cemitério. Durante sua Fase Principal, você pode: imediatamente depois que este efeito resolver, Invoque por Invocação-Normal 1 monstro \"Cibersombrio(a)\". Você só pode usar o efeito anterior de \"Reino Cibersombrio\" uma vez por turno. Se você equipou um monstro do seu Cemitério pelo efeito de um monstro \"Cibersombrio(a)\" que foi ativado quando ele foi Invocado por Invocação-Normal ou Especial, em vez disso, você pode equipar do Cemitério do seu oponente. Você só pode ativar 1 \"Reino Cibersombrio\" por turno.",
+    "race": "Continuous",
+    "arquetipo": "Cyberdark",
+    "card_image": "https://images.ygoprodeck.com/images/cards/64753988.jpg"
+  },
+  {
+    "nome": "Remover Limites",
+    "tipo": "Spell Card",
+    "subCardType": "Quick-Play Spell",
+    "desc": "Até o final deste turno, dobre o ATK de todos os monstros Máquina que você controla atualmente. Durante a Fase Final deste turno, destrua esses monstros.",
+    "race": "Quick-Play",
+    "card_image": "https://images.ygoprodeck.com/images/cards/23171610.jpg"
+  },
+  {
+    "nome": "Revolução Cibernética",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Ofereça como Tributo 1 \"Dragão Cibernético\"; Invoque por Invocação-Especial 1 Monstro de Fusão do seu Deck Adicional que liste um monstro \"Dragão Cibernético\" como matéria, mas ele não pode atacar diretamente e é destruído durante a Fase Final do próximo turno. Você só pode ativar 1 \"Revolução Cibernética\" por turno.",
+    "race": "Normal",
+    "arquetipo": "Cyber Dragon",
+    "card_image": "https://images.ygoprodeck.com/images/cards/18597560.jpg"
+  },
+  {
+    "nome": "Superdragão Quimeratech",
+    "tipo": "Fusion Monster",
+    "subCardType": "Fusion Effect Monster",
+    "desc": "\"Dragão Cibernético\" + 1+ monstros Máquina\nDeve ser Invocado por Invocação-Fusão. Se este card for Invocado por Invocação-Fusão: envie todos os outros cards que você controla para o Cemitério. O ATK/DEF originais deste card se tornam iguais ao número de Matérias de Fusão usadas para sua Invocação-Fusão x 800. A cada Fase de Batalha, este card pode atacar os monstros do seu oponente um número de vezes até o número de Matérias de Fusão usadas para sua Invocação-Fusão.",
+    "race": "Machine",
+    "atk": -1,
+    "def": -1,
+    "level": 9,
+    "card_image": "https://images.ygoprodeck.com/images/cards/64599569.jpg"
+  },
+  {
+    "nome": "Transbordamento Cibernético",
+    "tipo": "Trap Card",
+    "subCardType": "Normal Trap",
+    "desc": "Bana um ou mais \"Dragão Cibernético\" com Níveis diferentes da sua mão, do campo com a face para cima e/ou do Cemitério e, depois, destrua o mesmo número de cards que seu oponente controla. Se este card no campo for destruído por um efeito de card: adicione 1 Magia/Armadilha \"Ciber\" do seu Deck à sua mão. Você só pode usar cada efeito de \"Transbordamento Cibernético\" uma vez por turno.",
+    "race": "Normal",
+    "arquetipo": "Cyber Dragon",
+    "card_image": "https://images.ygoprodeck.com/images/cards/82428674.jpg"
+  },
+  {
+    "nome": "Usina de Reparos Cibernética",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Se \"Dragão Cibernético\" estiver no seu Cemitério: você pode ativar 1 desses efeitos. Se você tiver 3 ou mais \"Dragão Cibernético\" no seu Cemitério na ativação deste card, você pode ativar os dois efeitos e resolvê-los em sequência. Você só pode ativar 1 \"Usina de Reparos Cibernética\" por turno.\n●Adicione 1 monstro Máquina de LUZ do seu Deck à sua mão.\n●Escolha 1 monstro Máquina de LUZ no seu Cemitério; embaralhe o alvo no seu Deck.",
+    "race": "Normal",
+    "arquetipo": "Cyber Dragon",
+    "card_image": "https://images.ygoprodeck.com/images/cards/86686671.jpg"
+  },
+  {
+    "nome": "Vínculo de Poder",
+    "tipo": "Spell Card",
+    "subCardType": "Normal Spell",
+    "desc": "Invoque por Invocação-Fusão 1 Monstro de Fusão Máquina do seu Deck Adicional, usando monstros da sua mão ou do campo como Matéria de Fusão, e ele ganha ATK igual ao seu próprio ATK original. Durante a Fase Final do turno em que este card for ativado, você sofre dano igual ao valor de ATK ganho por este efeito no momento da Invocação.",
+    "race": "Normal",
+    "card_image": "https://images.ygoprodeck.com/images/cards/37630732.jpg"
+  }
+]

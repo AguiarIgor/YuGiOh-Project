@@ -1,0 +1,21 @@
+.infoAba {
+    position: absolute;
+    top: 1%;
+    right: 1%;
+    width: 28.5vw;
+    height: 70vh;
+    background: #4d4d4d no-repeat center center;
+    background-size: 100% 100%;
+    border: gray solid;
+    border-width: 1.25vh 0.75vw 1.25vh 0.75vw;
+    pointer-events: visible;
+}
+/*
+.infoAba::before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: #4d4d4d no-repeat center center;
+    background-size: 100% 100%;
+}*/

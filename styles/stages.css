@@ -1,0 +1,61 @@
+.currentPhase {
+    position: absolute;
+    right: 1%;
+    bottom: 3%;
+    width: 30vw;
+    height: 21.25vh;
+    justify-content: space-evenly !important;
+    flex-direction: column;
+}
+
+#changePhase {
+    background-color: #0c76dc;
+    border: 0.5vw solid #054F77;
+    border-radius: 100%;
+    aspect-ratio: 1;
+    width: 12.5vw;
+    padding: 0;
+    text-align: center;
+    font-size: 2.5vw;
+}
+#changePhase:hover,
+#changePhase:focus {
+    background-color: #297ce4;
+}
+#changePhase:active {
+    background: #09223b;
+    color: rgb(255, 255, 255, .7);
+}
+
+
+.modalPhase {
+    display: none;
+    padding: 20px;
+    width: 80%;
+    max-width: 95%;
+    max-height: 50%;
+    pointer-events: visible;
+}
+.phases {
+    justify-content: space-between !important;
+
+    & > .phase {
+        width: calc(100% / 7);
+        aspect-ratio: 1;
+        background: #297ce4;
+        border: 0.75vh solid #054F77;
+        border-radius: 100%;
+        margin: 1.5vh 1.25vw;
+
+        & > p {
+            font-size: 2vw;
+            text-align: center;
+            color: white;
+            margin: 0;
+        }
+    }
+
+    & > .phase:first-child {
+        margin-left: 1.25vw;
+    }
+}

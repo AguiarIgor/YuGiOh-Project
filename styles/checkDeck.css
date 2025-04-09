@@ -1,0 +1,86 @@
+.checkDeck {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    z-index: 99;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #b3b3b3;
+    pointer-events: visible;
+}
+
+.modalDeck {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    text-align: center;
+    background-color: aliceblue;
+    border: 0.75vw solid #686870;
+    border-radius: 20px;
+    height: 55%;
+    width: 55%;
+
+    & .modalDeckContent {
+        height: 60%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        & .image-wrapper:first-child {
+            margin-left: 1%;
+        }
+        & .image-wrapper {
+            width: 18vw;
+            margin-right: 1%;
+            font-size: 1.5vw;
+
+            & > .DeckImg {
+                width: auto;
+                height: 25vh;
+                cursor: pointer;
+            }
+        }
+    }
+
+    & p {
+        display: none;
+        position: absolute;
+        bottom: 5%;
+        margin-bottom: 0;
+        font-size: 1vw;
+        color: red;
+    }
+}
+
+.radio {
+    position: absolute;
+    visibility: hidden;
+}
+.radio:checked + .DeckImg {
+    border: 0.25vw solid #00e8fd;
+    border-radius: 0.4vw;
+}
+
+#deckEscolhido {
+    border: 0;
+    background-color: #000000;
+    border-radius: 10px;
+    margin-top: 1.5vw;
+    padding: 1.5vw;
+    line-height: 20px;
+    font-size: 2vw;
+}
+#deckEscolhido:hover,
+#deckEscolhido:focus {
+    background-color: #2e2d2d;
+}
+#deckEscolhido:active {
+    background: #070404;
+    color: rgb(255, 255, 255, .7);
+}
