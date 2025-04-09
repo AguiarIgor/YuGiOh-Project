@@ -14,14 +14,14 @@ btnFechar.addEventListener('click', () => {
     modalCards.style.display = 'none';
 });
 
-window.onclick = function (e) {
+window.addEventListener('click', function (e) {
     const tg = e.target;
     e.stopPropagation();
     if (tg === modalCemiterio) {
         modalCemiterio.style.display = 'none';
         modalCards.style.display = 'none';
     }
-}
+});
 linhaCemiterio.addEventListener('wheel', function (event) {
     if (event.deltaY !== 0) {
         linhaCemiterio.scrollLeft += event.deltaY * 0.5;

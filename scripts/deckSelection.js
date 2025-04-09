@@ -1,5 +1,5 @@
 import selectCard from "/scripts/playCard.js";
-import { bindEvent } from "/scripts/general.js";
+import { changePhase } from "/scripts/phases.js";
 
 /**
  * Função para Selecionar o Deck a ser Utilizado
@@ -40,7 +40,11 @@ btnSelectDeck.addEventListener('click', function () {
             selectedDeck = selectedDeck.filter(card => !selectedAdicionalDeck.includes(card));
 
             checkDeck.style.display = 'none';
-            for (let i = 0; i < 5; i++) { handPuxada() }
+            const puxadaIntervalo = setInterval(handPuxada,200);
+            setTimeout(() => {
+                    clearInterval(puxadaIntervalo);
+                    changePhase.innerText = 'Draw Phase';
+                }, 1000);
         })
         .catch(error => {
             console.error('Erro ao carregar o Deck.JSON:', error);
@@ -52,7 +56,6 @@ btnSelectDeck.addEventListener('click', function () {
  */
 export const deckCard = document.getElementsByClassName("JDeck")[0].firstElementChild;
 export const hand = document.getElementsByClassName("hand")[0];
-bindEvent(deckCard, 'click', handPuxada);
 export default function handPuxada() {
     if(selectedDeck.length === 0) {
         console.log("You Lose!")
@@ -97,5 +100,6 @@ export default function handPuxada() {
         </div>`
     }
     hand.innerHTML += carta;
+    if(changePhase.innerText === 'Draw Phase') changePhase.innerText = 'Standby Phase';
     selectCard();
 }

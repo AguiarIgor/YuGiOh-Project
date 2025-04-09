@@ -8,13 +8,13 @@
 .hand, .linhaMao, .playAction, .checkDeck,
 body, .campo-duelo, .campo-jogador, .cardEspaco,
 .MonstroAdicional1, .MonstroAdicional2,
-.currentPhase, .phases, .phase{
+.currentPhase, .phases {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-#changePhase, #deckEscolhido {
+#changePhase, #deckEscolhido, .phase {
     cursor: pointer;
     pointer-events: visible;
     color: #ffffff;
@@ -22,9 +22,15 @@ body, .campo-duelo, .campo-jogador, .cardEspaco,
     transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
     user-select: none;
     -webkit-user-select: none;
+    text-shadow:
+            0.2vw 0.2vw 0.2vw rgba(0, 0, 0, 1),
+            0.2vw 0.2vw 0.2vw rgba(0, 0, 0, 1);
 }
-#changePhase:disabled, #deckEscolhido:disabled {
+#changePhase:disabled, #deckEscolhido:disabled,
+.phase:disabled{
     cursor: not-allowed;
-    background: rgba(0, 0, 0, .08);
-    color: rgba(0, 0, 0, .3);
+    color: rgba(0, 0, 0, 1);
+    text-shadow:
+            0.1vw 0.1vw 0.1vw rgba(255, 255, 255, 0.6),
+            0.1vw 0.1vw 0.1vw rgba(255, 255, 255, 0.6);
 }
